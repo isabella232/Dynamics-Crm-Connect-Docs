@@ -16,6 +16,8 @@ Topics
 
     getting-started/index
     synchronization/index
+    crm-campaign-sync/index
+    
 
     
 

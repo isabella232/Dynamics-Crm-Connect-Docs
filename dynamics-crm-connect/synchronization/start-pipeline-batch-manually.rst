@@ -1,9 +1,9 @@
 Start a Pipeline Batch Manually
 =================================
 
-Data synchronization is controlled using items called *Pipeline Batches*.
-A *Pipeline Batch* can be started in a number of ways. The easiest way is to
-start the *Pipeline Batch* manually.
+Data synchronization is controlled using items called *pipeline batches*.
+A pipeline batches can be started in a number of ways. The easiest way is to
+start the pipeline batches manually.
 
 .. tip::
   Be aware of the data in your CRM. If you run the synchronization
@@ -14,12 +14,12 @@ start the *Pipeline Batch* manually.
   process is working, consider setting a limit on the number of
   contacts that will be handled.
 
-1.	Navigate to your *Tenant*.
-2.	Navigate to ``Pipeline Batches/CRM Contacts to xDB Sync Pipeline Batch``.
-3.	Click the button ``Run Pipeline Batch``.
+1.	In Content Editor, navigate to your *tenant*.
+2.	Navigate to **Pipeline Batches > CRM Contacts to xDB Sync Pipeline Batch**.
+3.	Click the button **Run Pipeline Batch**.
 
     .. image:: _static/run-pipeline-batch.png
 
-4.	A message will appear to indicate the *Pipeline Batch* started.
+4.	A message will appear to indicate the pipeline batches started.
 
     .. image:: _static/pipeline-batch-started.png

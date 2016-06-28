@@ -1,5 +1,6 @@
 Synchronization
 =======================================
+
 Synchronization involves making data from one system available in another.
 
 Topics
