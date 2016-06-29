@@ -1,7 +1,9 @@
-Add Fields to Synchronize
+.. _crm-contact-add-value:
+
+Add Value to Synchronize
 ==========================
 
-The default field mappings are described in the :ref:`default-field-mappings-crm-contact`
+The default value mappings are described in the :ref:`default-value-mappings-crm-contact`
 section. These mappings can be changed, and new mappings can be added.
 
 .. contents:: Steps
@@ -36,6 +38,8 @@ synchronization process. Two value accessor items must be created: one for
 the CRM campaign attribute and the xDB contact property identified in
 the previous steps.
 
+.. _crm-contact-add-value-crm-value-accessor:
+
 Value Accessor for CRM Contact
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -48,6 +52,8 @@ whose value is written to the xDB contact.
 #. Insert a new item using the template **Entity Attribute Value Accessor**.
 #. In the field **Attribute name**, enter the name of the attribute from the section `Identity CRM Contact Attribute`_.
 #. Save the item.
+
+.. _crm-contact-add-value-xdb-value-accessor:
 
 Value Accessor for xDB Contact
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,6 +79,8 @@ accessor.
 #. Set the required fields.
 #. Save the item.
 
+.. _crm-contact-add-value-define-value-mapping:
+
 Define Value Mapping
 ---------------------
 
@@ -86,8 +94,8 @@ used to write the property value to an xDB contact.
 #. In Content Editor, Navigate to your *tenant*.
 #. Navigate to **Value Mapping Sets > CRM Contact to xDB Contact**.
 #. Insert a new item using the template **Value Mapping**.
-#. In the field **Value accessor for source object**, select the `Value Accessor for CRM Contact`_.
-#. In the field **Value accessor for target object**, select the `Value Accessor for xDB Contact`_.
+#. In the field **Value accessor for source object**, select the :ref:`crm-contact-add-value-crm-value-accessor`.
+#. In the field **Value accessor for target object**, select the :ref:`crm-contact-add-value-xdb-value-accessor`.
 #. Save the item.
 
 This setting will take affect the next time the synchronization process runs.

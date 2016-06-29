@@ -1,7 +1,7 @@
-Add Fields to Synchronize
+Add Value to Synchronize
 ==========================
 
-The default field mappings are described in the :ref:`default-field-mappings-crm-campaign`
+The default value mappings are described in the :ref:`default-value-mappings-crm-campaign`
 section. These mappings can be changed, and new mappings can be added.
 
 .. contents:: Steps:

@@ -14,8 +14,8 @@ Topics
     :titlesonly:
 
     overview
-    default-field-mappings
-    add-fields-to-sync
+    default-value-mappings
+    add-value-to-sync
     read-inactive-campaigns
     disable-item-buckets
     filter-campaigns

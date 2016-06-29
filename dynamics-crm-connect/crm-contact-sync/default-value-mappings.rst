@@ -1,6 +1,6 @@
-.. _default-field-mappings-crm-contact:
+.. _default-value-mappings-crm-contact:
 
-Default Field Mappings
+Default Value Mappings
 ==============================
 
 By default, the contact synchronization process maps the following values

@@ -14,8 +14,8 @@ Topics
     :titlesonly:
 
     overview
-    default-field-mappings
-    add-fields-to-sync
+    default-value-mappings
+    add-value-to-sync
     limit-mapped-values
     read-inactive-contacts
     filter-contacts

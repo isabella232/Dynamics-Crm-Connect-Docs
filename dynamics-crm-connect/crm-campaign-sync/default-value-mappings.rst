@@ -1,6 +1,6 @@
-.. _default-field-mappings-crm-campaign:
+.. _default-value-mappings-crm-campaign:
 
-Default Field Mappings
+Default Value Mappings
 =========================
 
 By default, the campaign synchronization process maps the following values

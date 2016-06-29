@@ -14,6 +14,8 @@ Topics
     synchronization/index
     crm-campaign-sync/index
     crm-contact-sync/index
+    crm-marketinglist-sync/index
+    xdb-contact-sync/index
     components/index
     
 
