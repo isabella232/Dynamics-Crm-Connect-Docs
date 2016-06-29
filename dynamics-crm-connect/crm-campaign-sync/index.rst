@@ -1,5 +1,8 @@
+.. _crm-campaign-sync:
+
 CRM Campaign Synchronization
 =======================================
+
 Dynamics CRM Connect comes with a pre-defined *pipeline batch* that reads
 campaigns from Dynamics CRM and creates campaigns in Sitecore that correspond
 to the campaigns that were read from CRM.

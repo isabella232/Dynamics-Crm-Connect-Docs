@@ -1,3 +1,5 @@
+.. _synchronization:
+
 Synchronization
 =======================================
 

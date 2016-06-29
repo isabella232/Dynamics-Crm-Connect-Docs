@@ -25,3 +25,8 @@ templates can be used to create commands that can be scheduled as tasks:
 |                          | | each selected pipeline batch is run in the      |
 |                          | | order it was selected.                          |
 +--------------------------+---------------------------------------------------+
+
+.. hint:: 
+
+    These templates are described in detail in the :ref:`sitecore-task-commands` 
+    section.

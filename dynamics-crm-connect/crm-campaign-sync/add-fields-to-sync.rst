@@ -1,7 +1,7 @@
 Add Fields to Synchronize
 ==========================
 
-The default field mappings are described in the :doc:`Default Field Mappings <default-field-mappings>`
+The default field mappings are described in the :ref:`default-field-mappings-crm-campaign`
 section. These mappings can be changed, and new mappings can be added.
 
 .. contents:: Steps:
@@ -36,18 +36,39 @@ synchronization process. Two value accessor items must be created: one for
 the CRM campaign attribute and the Sitecore campaign property identified in
 the previous steps.
 
+Value Accessor for CRM Campaign
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The value accessor for the CRM campaign is used to read the attribute whose 
+value is written to the Sitecore campaign.
+
 #. In Content Editor, navigate to your *tenant*.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Dynamics CRM > CRM Campaign Attributes**.
 #. Insert a new item using the template **Entity Attribute Value Accessor**.
 #. In the field **Attribute name**, enter the name of the attribute from the section `Identity CRM Campaign Attribute`_.
 #. Save the item.
+
+.. tip::
+  For more information on the value accessor used with CRM entity 
+  attributes, see :ref:`crm-entity-value-accessor`. 
+
+Value Accessor for Sitecore Campaign
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The value accessor for the Sitecore campaign is used to write the value 
+read from the CRM campaign to the Sitecore campaign.
+
 #. Navigate to your tenant.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Sitecore > Sitecore Campaign Entity Fields**.
 #. Insert a new item using the template **Property Value Accessor**.
 #. In the field **Property name**, enter the name of the property from the section `Identity Sitecore Campaign Property`_.
 #. Save the item.
+
+.. tip::
+  For more information on the value accessor used with CRM entity 
+  attributes, see :ref:`framework-property-value-accessor`. 
 
 Define Value Mapping
 ---------------------
@@ -57,13 +78,13 @@ with the value accessor used to write a value.
 
 In this case, the value mapping associates the value accessor used
 read the attribute value from a CRM campaign with the value accessor
-used to write the property value to a Sitecore campaign.
+used to write the property value to Sitecore campaign.
 
 #. In Content Editor, Navigate to your *tenant*.
 #. Navigate to **Value Mapping Sets > CRM Campaign to Sitecore Campaign**.
 #. Insert a new item using the template **Value Mapping**.
-#. In the field **Value accessor for source object**, select the item you created under **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Campaign Attributes**.
-#. In the field **Value accessor for target object**, select the item you created under **Data Access > Value Accessor Sets > Providers > Sitecore > Sitecore Campaign Entity Fields**.
+#. In the field **Value accessor for source object**, select the `Value Accessor for CRM Campaign`_.
+#. In the field **Value accessor for target object**, select the `Value Accessor for Sitecore Campaign`_.
 #. Save the item.
 
 This setting will take affect the next time the synchronization process runs.

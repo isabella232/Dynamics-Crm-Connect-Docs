@@ -6,8 +6,8 @@ also set a limit for the number of campaigns that are handled.
 
 .. note::
   This setting is used in addition to the option to include inactive
-  campaigns (see :doc:`Read Inactive CRM Campaigns <read-inactive-campaigns>`)
-  and the option to use a filter expression (see :doc:`Filter Expressions <filter-campaigns>`).
+  campaigns (see :ref:`read-inactive-crm-campaigns`)
+  and the option to use a filter expression (see :ref:`crm-filter-expressions`).
 
 .. note::
   This setting does not restrict the number of campaigns that are read

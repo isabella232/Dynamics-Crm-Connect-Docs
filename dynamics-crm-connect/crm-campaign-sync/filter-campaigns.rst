@@ -7,7 +7,7 @@ are read.
 
 .. note::
   This setting is used in addition to the option to include inactive
-  campaigns described in the section :doc:`Read Inactive CRM Campaigns <read-inactive-campaigns>`.
+  campaigns described in the section :ref:`read-inactive-crm-campaigns`.
 
 #. In Content Editor, navigate to your *tenant*.
 #. Navigate to **Tenant Settings > Dynamics CRM > Filter Expressions > Campaign Filter Expressions**.
@@ -16,7 +16,7 @@ are read.
 
   .. hint::
     For details on how to configure filter expressions, see
-    `Filter Expressions <dynamicscrm/filter-expressions.html>`_.
+    :ref:`crm-filter-expressions`.
 
 5. Navigate to your tenant.
 #. Navigate to **Pipelines > CRM Campaign Pipelines**.
