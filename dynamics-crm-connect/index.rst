@@ -12,11 +12,7 @@ Topics
 
     getting-started/index
     synchronization/index
-    crm-campaign-sync/index
-    crm-contact-sync/index
-    crm-contact-full-sync/index
-    crm-marketinglist-sync/index
-    xdb-contact-sync/index
+    pipeline-batches/index
     components/index
     
 

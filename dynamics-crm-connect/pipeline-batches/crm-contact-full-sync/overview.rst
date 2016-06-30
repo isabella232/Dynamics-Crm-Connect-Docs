@@ -9,7 +9,7 @@ and :ref:`crm-marketinglist-sync`, only it does this as a single
 synchronization process.
 
 +-------------------------------+--------------+---------------------+
-| pipeline batch                | contact sync | marketing list sync |
+| Pipeline batch                | Contact sync | Marketing list sync |
 +===============================+==============+=====================+
 | CRM Contacts to xDB Sync      | yes          | no                  |
 +-------------------------------+--------------+---------------------+

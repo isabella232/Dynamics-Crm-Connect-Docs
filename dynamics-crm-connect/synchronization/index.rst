@@ -1,6 +1,6 @@
 .. _synchronization:
 
-Synchronization
+Synchronization Fundamentals
 =======================================
 
 Synchronization involves making data from one system available in another.
