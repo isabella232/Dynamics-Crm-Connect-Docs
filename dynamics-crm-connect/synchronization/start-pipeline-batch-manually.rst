@@ -20,6 +20,6 @@ start the pipeline batches manually.
 
     .. image:: _static/run-pipeline-batch.png
 
-4.	A message will appear to indicate the pipeline batches started.
+4.	A message will appear to indicate the pipeline batch started.
 
     .. image:: _static/pipeline-batch-started.png

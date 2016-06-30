@@ -3,8 +3,10 @@
 Standard Pipeline Batches
 =======================================
 
-This section covers the *pipeline batches* that ship with 
-Dynamics CRM Connect. 
+A *pipeline batch* defines the logic for a synchronization process.
+
+This section covers the pipeline batches that ship with Dynamics 
+CRM Connect. 
 
 Pipeline Batches
 -------------------
