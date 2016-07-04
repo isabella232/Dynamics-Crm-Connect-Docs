@@ -1,4 +1,4 @@
-.. add-templates-for-crm-entity-data:
+.. _add-templates-for-crm-entity-data:
 
 Add Templates for CRM Entity Data
 ===================================

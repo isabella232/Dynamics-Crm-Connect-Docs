@@ -1,4 +1,4 @@
-.. run-pipeline-batch
+.. _run-pipeline-batch
 
 Run Pipeline Batch
 =====================================

@@ -1,4 +1,4 @@
-.. simple-sync-for-crm-entities:
+.. _simple-sync-for-crm-entities:
 
 Simple Synchronization
 =======================================

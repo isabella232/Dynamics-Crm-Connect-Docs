@@ -17,6 +17,5 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    overview
     items/index
     xdb/index

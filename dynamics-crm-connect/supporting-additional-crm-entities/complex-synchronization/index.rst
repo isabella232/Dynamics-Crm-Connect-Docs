@@ -39,3 +39,8 @@ Steps
 .. toctree::
     :numbered:
     :titlesonly:
+
+    extend-dynamics-crm-contact-facet
+    extend-indexable-contact
+    extend-contact-aggregator
+    

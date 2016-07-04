@@ -1,4 +1,4 @@
-.. add-entity-repository:
+.. _add-entity-repository:
 
 Add Entity Repository
 ===========================

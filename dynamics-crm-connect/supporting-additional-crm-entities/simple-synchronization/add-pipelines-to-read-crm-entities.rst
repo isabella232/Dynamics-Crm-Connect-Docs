@@ -1,4 +1,4 @@
-.. add-pipelines-to-read-crm-entities:
+.. _add-pipelines-to-read-crm-entities:
 
 Add Pipelines to Read CRM Entities
 =====================================

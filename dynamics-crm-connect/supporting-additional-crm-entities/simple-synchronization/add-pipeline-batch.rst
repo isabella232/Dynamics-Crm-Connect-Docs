@@ -1,4 +1,4 @@
-.. add-pipeline-batch:
+.. _add-pipeline-batch:
 
 Add Pipeline Batch
 =====================================
