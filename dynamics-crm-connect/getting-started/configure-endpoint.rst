@@ -23,12 +23,13 @@ connected to an *entity repository set*.
   at the list of items that refer to the endpoint you will see that
   there are 6 items that reference the endpoint:
 
+  .. image:: _static/configure-endpoint.png
+
   Without the entity repository set, if you ever needed to change the
   endpoint (for example, if you wanted to change from using a
-  connection string to using a connection string name), you would
-  need to create a new endpoint and then change those 6 items.
+  connection string name to using another means of authentication), 
+  you would need to create a new endpoint and then change those 6 items.
   Instead, all you need to do is entity repository set on the
   endpoint. You are able to leave those 6 items untouched.
 
-  .. image:: _static/configure-endpoint.png
 
