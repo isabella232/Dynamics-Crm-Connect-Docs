@@ -13,8 +13,8 @@ Topics
     getting-started/index
     synchronization/index
     pipeline-batches/index
-    supporting-additional-crm-entities/index
     components/index
+    cookbooks/index
     
 
     

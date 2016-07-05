@@ -1,0 +1,25 @@
+.. _xdb-value-accessor-facet-property:
+
+Facet Property
+==========================================
+
+Most values stored in contact facets are stored in basic properties. 
+This includes text, numbers and dates.
+
+For example, values like the contact's first name, last name (surname) 
+and job title are simple string values, so this type of *value accessor* 
+is appropriate.
+
++-----------------+-----------------------------------------------------------+
+| Template name   | **xDB Contact Facet Property Value Accessor**             |
++-----------------+-----------------------------------------------------------+
+| Base template   | :ref:`framework-generic-value-accessor`                   |
++-----------------+-----------------------------------------------------------+
+
++-----------------------------------------------+-----------------------------------------------------------+
+| Field                                         | Description                                               |
++===============================================+===========================================================+
+| ``Contact facet name``                        | Name of the contact facet to access.                      |
++-----------------------------------------------+-----------------------------------------------------------+
+| ``Property name``                             | Name of the property on the contact facet.                |
++-----------------------------------------------+-----------------------------------------------------------+
