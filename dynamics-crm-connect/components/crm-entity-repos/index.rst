@@ -7,13 +7,12 @@
 
 .. include:: ../../../common/stub-notice.txt
 
-A tenant is a very simple object: it is used to organize and isolate 
-settings so that multiple configurations can coexist.
+An *entity repository* is a ...
 
 .. note::
     These templates are defined in the following location:
 
-    **Templates > Data Exchange > Framework > Tenants** 
+    **Templates > Data Exchange > Providers > Dynamics CRM > Repositories** 
 
 
 Topics

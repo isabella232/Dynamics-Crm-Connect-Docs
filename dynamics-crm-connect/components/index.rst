@@ -13,6 +13,7 @@ Topics
     endpoints/index
     pipeline-steps/index
     data-access/index
+    sitecore-rules/index
     crm-filter-expressions/index
     crm-entity-repos/index
     sitecore-task-commands/index
