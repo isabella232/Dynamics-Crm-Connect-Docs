@@ -1,20 +1,15 @@
-.. _framework-generic-tenant:
+.. _framework-tenants-base:
 
-Generic
+Tenant
 ==========================================
 
-This *tenant* represents any kind of tenant.
+A *tenant* represents the collection of settings that describe 
+synchronization processes.
+
+.. include:: ../../../common/base-template-never-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Data Exchange Tenant**                                  |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
-
-.. note:: 
-
-    This template is the base template for all tenants. However,
-    it is not expected that custom templates that extend this 
-    template will be needed.
-
-There are no fields defined on this template.

@@ -17,7 +17,8 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    generic
+    base-value-reader
+    array-value
     constant
     fallback
     iso-date

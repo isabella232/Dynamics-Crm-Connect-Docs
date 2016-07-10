@@ -1,13 +1,10 @@
-.. include:: ../../../common/stub-topic.txt
-
 .. _sitecore-rules:
 
-|stub-icon| Sitecore Rules
+Sitecore Rules
 =======================================
 
-.. include:: ../../../common/stub-notice.txt
+Dynamics CRM Connect includes a number of extensions to the Sitecore rules engine.
 
-xxx
 
 Topics
 -------------
@@ -16,5 +13,6 @@ Topics
     :titlesonly:
     :maxdepth: 2
 
-    dependent-tree-macro
+    conditions/index
+    macros/index
     

@@ -1,23 +1,18 @@
 .. _framework-generic-value-accessor:
 
-Generic
+Base Value Accessor
 ==========================================
 
 This *value accessor* allows a value reader and/or value writer 
 to be set explicitly.
+
+.. include:: ../../../../../common/base-template-always-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Value Accessor**                                        |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
-
-.. note::
-
-    This template is the base template for all value accessors.
-    In most cases, items based on templates that inherits from 
-    this template are used to configure a *value accessor set*. 
-    It is rare for items to be created using this template directly.
 
 +-----------------------------------------------+-----------------------------------------------------------+
 | Field                                         | Description                                               |

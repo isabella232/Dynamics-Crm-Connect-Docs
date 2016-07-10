@@ -16,5 +16,3 @@ requiring custom development.
 +-----------------+-----------------------------------------------------------+
 | Base template   | :ref:`framework-generic-value-reader`                     |
 +-----------------+-----------------------------------------------------------+
-
-There are no fields defined on this template.

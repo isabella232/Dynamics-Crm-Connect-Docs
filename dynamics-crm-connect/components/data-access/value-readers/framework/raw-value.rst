@@ -13,5 +13,3 @@ the source object because the source object *is* the value.
 +-----------------+-----------------------------------------------------------+
 | Base template   | :ref:`framework-generic-value-reader`                     |
 +-----------------+-----------------------------------------------------------+
-
-There are no fields defined on this template.

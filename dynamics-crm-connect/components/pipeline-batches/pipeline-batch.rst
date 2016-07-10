@@ -1,21 +1,17 @@
 .. _framework-generic-pipeline-batch:
 
-Generic
+Pipeline Batch
 ==========================================
 
 This *pipeline batch* represents any kind of pipeline batch.
+
+.. include:: ../../../common/base-template-never-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Pipeline Batch**                                        |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
-
-.. note:: 
-
-    This template is the base template for all pipeline batches. 
-    However, it is not expected that custom templates that extend  
-    this template will be needed.
 
 +-----------------------------------------------+-----------------------------------------------------------+
 | Field                                         | Description                                               |
@@ -46,6 +42,13 @@ This *pipeline batch* represents any kind of pipeline batch.
 +-----------------------------------------------+-----------------------------------------------------------+
 | ``Log levels``                                | | The values that are selected here determine what is     |
 |                                               | | written to the ``Messages`` field.                      |
+|                                               | |                                                         |
+|                                               | | This setting does not affect the Sitecore log settings, |
+|                                               | | and is not affected by the Sitecore log settings.       |
++-----------------------------------------------+-----------------------------------------------------------+
+| ``Maximum number of summary messages``        | | The maximuim number of messages that are written to     |
+|                                               | | to the ``Messages`` field. Use -1 to indicate an        |
+|                                               | | an unlimited number of messages are written.            |
 |                                               | |                                                         |
 |                                               | | This setting does not affect the Sitecore log settings, |
 |                                               | | and is not affected by the Sitecore log settings.       |

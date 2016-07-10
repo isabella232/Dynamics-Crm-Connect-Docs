@@ -20,8 +20,3 @@ attribute to a numeric value.
 | ``Value``                                     | The integer value that is used in the expression.         |
 +-----------------------------------------------+-----------------------------------------------------------+
 
-.. note:: 
-    
-    Numeric condition expression items are converted into instances of the 
-    type ``Microsoft.Xrm.Sdk.Query.ConditionExpression``. For more information 
-    about how this type works, see `<https://msdn.microsoft.com/en-us/library/gg334419.aspx>`_.

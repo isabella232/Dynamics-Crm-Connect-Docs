@@ -24,8 +24,3 @@ the value of an attribute is within a date range.
 |                                               | | If no value is specified, no upper bound is considered. |
 +-----------------------------------------------+-----------------------------------------------------------+
 
-.. note:: 
-    
-    Date range condition expression items are converted into instances of the 
-    type ``Microsoft.Xrm.Sdk.Query.ConditionExpression``. For more information 
-    about how this type works, see `<https://msdn.microsoft.com/en-us/library/gg334419.aspx>`_.

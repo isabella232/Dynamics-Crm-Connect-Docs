@@ -13,8 +13,10 @@ Topics
     endpoints/index
     pipeline-steps/index
     data-access/index
+    data-mapping/index
     sitecore-rules/index
     crm-filter-expressions/index
     crm-entity-repos/index
     sitecore-task-commands/index
+    queue-processors/index
     

@@ -19,5 +19,5 @@ Topics
     :titlesonly:
     :maxdepth: 2
 
-    generic
+    pipeline-batch
     

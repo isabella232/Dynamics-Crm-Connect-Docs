@@ -1,14 +1,14 @@
-.. _framework-generic-value-reader:
+.. _framework-generic-value-writer:
 
-Generic
+Base Value Writer
 ==========================================
 
-This template is the base template for all *value readers*.
+This template is the base template for all *value writers*.
+
+.. include:: ../../../../../common/base-template-always-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
-| Template name   | **Value Reader**                                          |
+| Template name   | **Value Writer**                                          |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
-
-There are no fields defined on this template.

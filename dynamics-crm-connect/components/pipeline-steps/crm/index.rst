@@ -1,6 +1,8 @@
+.. include:: ../../../../common/stub-topic.txt
+
 .. _crm-pipeline-steps:
 
-Dynamics CRM
+|stub-icon| Dynamics CRM
 ============================
 
 These *pipeline steps* are used to interact with Dynamics CRM.
@@ -17,4 +19,4 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    xxx
+

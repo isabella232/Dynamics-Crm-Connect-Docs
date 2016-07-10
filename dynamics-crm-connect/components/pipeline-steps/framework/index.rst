@@ -17,5 +17,9 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    generic
-    
+    base-pipeline-step
+    apply-mapping
+    iterate-data-and-run-pipelines
+    process-queue
+    base-resolve-object
+    base-resolve-object-from-queue

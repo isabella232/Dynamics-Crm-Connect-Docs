@@ -17,5 +17,5 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    generic
+    base-endpoint
     queue

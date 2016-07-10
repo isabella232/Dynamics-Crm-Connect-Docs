@@ -1,7 +1,7 @@
 .. _data-access:
 
 Data Access
-=======================
+=============================
 
 This section covers components involved with read and writing data. 
 
@@ -18,5 +18,6 @@ Topics
     value-accessors/index
     value-accessor-sets/index
     value-readers/index
+    value-writers/index
     
     

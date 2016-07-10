@@ -45,8 +45,3 @@ generated date range condition. To use the examples above:
 |                                               | | dates for the condition expression.                     |
 +-----------------------------------------------+-----------------------------------------------------------+
 
-.. note:: 
-    
-    Relative date condition expression items are converted into instances of the 
-    type ``Microsoft.Xrm.Sdk.Query.ConditionExpression``. For more information 
-    about how this type works, see `<https://msdn.microsoft.com/en-us/library/gg334419.aspx>`_.

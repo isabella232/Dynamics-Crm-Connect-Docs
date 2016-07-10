@@ -1,6 +1,8 @@
+.. include:: ../../../../common/stub-topic.txt
+
 .. _sitecore-pipeline-steps:
 
-Sitecore
+|stub-icon| Sitecore
 ============================
 
 These *pipeline steps* are used to interact with Sitecore.
@@ -17,4 +19,3 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    xxx
