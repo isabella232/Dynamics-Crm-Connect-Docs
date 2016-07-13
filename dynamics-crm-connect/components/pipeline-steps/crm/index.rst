@@ -19,4 +19,7 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-
+    read-entities
+    read-list-membership
+    resolve-entity
+    upsert-entity
