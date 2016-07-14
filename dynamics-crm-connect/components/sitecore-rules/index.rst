@@ -1,5 +1,3 @@
-.. _sitecore-rules:
-
 Sitecore Rules
 =======================================
 
@@ -7,7 +5,7 @@ Dynamics CRM Connect includes a number of extensions to the Sitecore rules engin
 
 
 Topics
--------------
+-------------------
 
 .. toctree::
     :titlesonly:

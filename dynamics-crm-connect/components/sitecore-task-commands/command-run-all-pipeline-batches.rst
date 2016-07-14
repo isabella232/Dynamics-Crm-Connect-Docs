@@ -1,5 +1,3 @@
-.. _command-run-all-pipeline-batches:
-
 Run All Pipeline Batches Command
 ======================================================
 
@@ -9,7 +7,7 @@ child of a specific item.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Run All Pipeline Batches Command**                      |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`command-base-run-multiple-pipeline-batches`         |
+| Base template   | :doc:`command-base-run-multiple-pipeline-batches`         |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

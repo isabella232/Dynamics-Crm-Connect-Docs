@@ -1,5 +1,3 @@
-.. _default-value-mappings-crm-campaign:
-
 Default Value Mappings
 =========================
 

@@ -1,5 +1,3 @@
-.. _crm-value-accessors:
-
 Dynamics CRM
 ============================
 
@@ -10,8 +8,8 @@ These *value accessors* are used to read and write Dynamics CRM data.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Data Access** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

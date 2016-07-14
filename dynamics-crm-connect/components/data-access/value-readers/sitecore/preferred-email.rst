@@ -1,5 +1,3 @@
-.. _sitecore-preferred-email-value-reader:
-
 Preferred Email
 ==========================================
 
@@ -9,7 +7,7 @@ an xDB contact.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Preferred Email Address Reader**                        |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`../framework/value-reader`                          |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+
@@ -22,7 +20,7 @@ an xDB contact.
 
 .. tip:: 
 
-    This value reader is used by the :ref:`framework-fallback-value-reader` 
+    This value reader is used by the :doc:`../framework/fallback` value reader 
     that ensures an email address is available on the xDB contact when CRM
     is updated using data from xDB.
 

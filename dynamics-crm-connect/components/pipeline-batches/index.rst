@@ -1,5 +1,3 @@
-.. _pipeline-batches:
-
 Pipeline Batches
 =======================
 
@@ -11,8 +9,7 @@ and to provide basic reporting information after it runs.
 
     **Templates > Data Exchange > Framework > Pipeline Batches** 
 
-
-Topics
+Templates
 -------------
 
 .. toctree::

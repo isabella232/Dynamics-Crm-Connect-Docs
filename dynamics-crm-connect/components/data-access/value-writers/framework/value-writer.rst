@@ -1,15 +1,12 @@
-.. _framework-endpoint-generic:
-
-Base Endpoint
+Base Value Writer
 ==========================================
 
-This template is the base template for all *endpoints*.
+This template is the base template for all *value writers*.
 
-.. include:: ../../../../common/base-template-always-inherit-notice.txt
+.. include:: ../../../../../common/base-template-always-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
-| Template name   | **Endpoint**                                              |
+| Template name   | **Value Writer**                                          |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
-

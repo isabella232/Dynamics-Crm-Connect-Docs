@@ -13,11 +13,11 @@ and a backup email address. In this example, the keys might be "work",
 Other values that are stored in dictionary properties are addresses 
 and telephone numbers.
 
-+-----------------+-----------------------------------------------------------+
-| Template name   | **xDB Contact Facet Indexer Property Value Accessor**     |
-+-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`xdb-value-accessor-facet-property`                  |
-+-----------------+-----------------------------------------------------------+
++-----------------------------------+-----------------------------------------------------------------------+
+| Template name                     | **xDB Contact Facet Indexer Property Value Accessor**                 |
++-----------------------------------+-----------------------------------------------------------------------+
+| Base template                     | :doc:`contact-facet-property`                                         |
++-----------------------------------+-----------------------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+
 | Field                                         | Description                                               |

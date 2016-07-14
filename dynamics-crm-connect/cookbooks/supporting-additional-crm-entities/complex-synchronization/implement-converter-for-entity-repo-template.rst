@@ -1,10 +1,8 @@
-.. _implement-converter-for-entity-repo-template:
-
 Implement Converter for Entity Repository Template
 ====================================================
 
 A converter is needed to transform items created using the template from 
-:ref:`add-template-for-entity-repo` into entity repository objects that 
+:doc:`add-template-for-entity-repo` into entity repository objects that 
 can be used by Pipeline Step Processors.
 
 1.	In Visual Studio, add the following class:
@@ -46,6 +44,6 @@ can be used by Pipeline Step Processors.
 
     private static readonly Guid TemplateId = Guid.Parse("[TEMPLATE-ID]");
 
-3.	Replace ``[TEMPLATE-ID]`` with the ID for the template from :ref:`add-template-for-entity-repo`.
+3.	Replace ``[TEMPLATE-ID]`` with the ID for the template from :doc:`add-template-for-entity-repo`.
 4.	Compile the project.
 5.	Deploy **Examples.DynamicsCrm.dll** to your Sitecore server.

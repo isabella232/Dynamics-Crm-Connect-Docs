@@ -1,5 +1,3 @@
-.. _secure-tenant:
-
 Secure a Tenant
 =======================
 

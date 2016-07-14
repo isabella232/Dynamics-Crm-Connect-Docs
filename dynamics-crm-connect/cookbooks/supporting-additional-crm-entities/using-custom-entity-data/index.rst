@@ -1,5 +1,3 @@
-.. _using-custom-entity-data:
-
 Using Custom Entity Data
 =======================================
 

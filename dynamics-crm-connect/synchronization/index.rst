@@ -1,5 +1,3 @@
-.. _synchronization:
-
 Synchronization Fundamentals
 =======================================
 

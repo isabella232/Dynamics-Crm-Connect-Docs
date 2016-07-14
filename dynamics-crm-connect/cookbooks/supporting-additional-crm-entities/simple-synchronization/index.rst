@@ -1,5 +1,3 @@
-.. _simple-sync-for-crm-entities:
-
 Simple Synchronization
 =======================================
 
@@ -15,7 +13,7 @@ structure (Sitecore items).
     because it is doing more than reading entities (it is reading a 
     relationship between the contact and account entities) and is storing 
     that data in a data structure that must be created (a custom contact facet). 
-    :ref:`complex-sync-for-crm-entities` covers how to implement this.
+    :doc:`../complex-synchronization/index` covers how to implement this.
 
 
 Steps

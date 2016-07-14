@@ -1,12 +1,10 @@
-.. _value-mapping-sets:
-
 Value Mapping Sets
 =======================
 
 A *value mapping set* groups a number of related *value mappings*.
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

@@ -1,5 +1,3 @@
-.. _framework-value-mappings:
-
 Data Exchange Framework
 ============================
 
@@ -10,11 +8,11 @@ These *value mappings* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Mapping** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
-    base-value-mapping
+    value-mapping

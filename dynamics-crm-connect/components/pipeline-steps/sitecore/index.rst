@@ -1,7 +1,5 @@
 .. include:: ../../../../common/stub-topic.txt
 
-.. _sitecore-pipeline-steps:
-
 |stub-icon| Sitecore
 ============================
 
@@ -12,10 +10,46 @@ These *pipeline steps* are used to interact with Sitecore.
 
     **Templates > Data Exchange > Providers > Sitecore > Pipeline Steps** 
 
-Types
-------
+Contact Templates
+-------------------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 2
+    
+    read-xdb-contacts
+.. 
+    resolve-xdb-contact-from-queue
+    run-bulk-contact-update-from-queue
+    resolve-xdb-contact-from-repository
+    save-xdb-contact
+
+Campaign Templates
+-------------------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 2
+    
+    resolve-campaign-category
+    resolve-campaign
+    save-campaign
+
+Sitecore Item Templates
+----------------------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
+    resolve-sitecore-item
+    update-sitecore-item
+
+Base Templates
+-------------------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 2
+    
+    base-resolve-object

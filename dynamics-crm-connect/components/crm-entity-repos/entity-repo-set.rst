@@ -1,5 +1,3 @@
-.. _crm-entity-repo-set:
-
 Entity Repository Set
 ==========================================
 

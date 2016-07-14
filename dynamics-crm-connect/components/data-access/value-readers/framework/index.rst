@@ -1,5 +1,3 @@
-.. _framework-value-readers:
-
 Data Exchange Framework
 ============================
 
@@ -10,14 +8,14 @@ These *value readers* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Value Readers** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
-    base-value-reader
+    value-reader
     array-value
     constant
     fallback

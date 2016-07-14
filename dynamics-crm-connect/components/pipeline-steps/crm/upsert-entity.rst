@@ -1,5 +1,3 @@
-.. _crm-pipeline-step-upsert-entity:
-
 Upsert CRM Entity
 =============================
 
@@ -13,10 +11,10 @@ Template Information
 +-----------------------------------+-----------------------------------------------------------------------+
 | Template name                     | **Upsert Entity Pipeline Step**                                       |
 +-----------------------------------+-----------------------------------------------------------------------+
-| Base template                     | :ref:`framework-pipeline-step-base`                                   |
+| Base template                     | :doc:`../framework/pipeline-step`                                     |
 +-----------------------------------+-----------------------------------------------------------------------+
 
-.. |endpoint| replace:: :ref:`crm-endpoint-entities`
+.. |endpoint| replace:: :doc:`/components/endpoints/crm/crm-entities`
 .. |post-pipelines| replace:: ``Pipelines to run after a new entity is inserted``
 
 +-------------------------------------------------+---------------------------------------------------------+
@@ -54,6 +52,16 @@ Plugin Information
 +-----------------------------------+-----------------------------------------------------------------------+
 | Plugin type                       | Description                                                           |
 +===================================+=======================================================================+
+| ``SynchronizationSettings``       | | Provides access to the target object, which is the entity that is   | 
+|                                   | | saved.                                                              |
+|                                   | |                                                                     |
+|                                   | | If this plugin is not set on the pipeline context prior to this     | 
+|                                   | | pipeline step running, the pipeline step will abort. This is not a  |
+|                                   | | *critical error*.                                                   |
+|                                   | |                                                                     |
+|                                   | | If no target object is set, or if the object is not the proper      | 
+|                                   | | type, the pipeline step will abort. This is not a *critical error*. |
++-----------------------------------+-----------------------------------------------------------------------+
 | ``SynchronizationSettings``       | | For each entity that is inserted, a new pipeline context is         |
 |                                   | | created. This pipeline context is passed to each of the pipelines   |
 |                                   | | specified in the |post-pipelines|                                   |

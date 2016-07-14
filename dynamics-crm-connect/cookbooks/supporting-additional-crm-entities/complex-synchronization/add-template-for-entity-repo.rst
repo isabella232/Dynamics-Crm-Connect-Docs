@@ -1,5 +1,3 @@
-.. _add-template-for-entity-repo:
-
 Add Template for Entity Repository
 ====================================================
 

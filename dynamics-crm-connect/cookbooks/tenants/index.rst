@@ -1,5 +1,3 @@
-.. _cookbook-tenants:
-
 Tenants
 =======================
 

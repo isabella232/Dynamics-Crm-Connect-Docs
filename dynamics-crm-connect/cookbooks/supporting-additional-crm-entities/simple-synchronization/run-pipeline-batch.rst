@@ -1,5 +1,3 @@
-.. _simple-run-pipeline-batch:
-
 Run Pipeline Batch
 =====================================
 

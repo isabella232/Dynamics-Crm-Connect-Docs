@@ -1,5 +1,3 @@
-.. _crm-endpoint-entities:
-
 Entities
 ==========================================
 
@@ -9,7 +7,7 @@ An entity repository set provides the ability to interact with CRM entities.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Dynamics CRM Entity Endpoint**                          |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-endpoint-generic`                         |
+| Base template   | :doc:`../framework/endpoint`                              |
 +-----------------+-----------------------------------------------------------+
 
 +------------------------------------------+----------------------------------------------------------------+

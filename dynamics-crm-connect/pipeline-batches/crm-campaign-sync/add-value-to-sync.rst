@@ -1,7 +1,7 @@
 Add Value to Synchronize
 ==========================
 
-The default value mappings are described in the :ref:`default-value-mappings-crm-campaign`
+The default value mappings are described in the :doc:`/pipeline-batches/crm-campaign-sync/default-value-mappings`
 section. These mappings can be changed, and new mappings can be added.
 
 .. contents:: Steps:
@@ -12,13 +12,13 @@ In order to add a new field, you must know the attribute from the CRM campaign
 that you want to read, and the property on the Sitecore campaign that you want
 to write.
 
-Identity CRM Campaign Attribute
+Identify CRM Campaign Attribute
 ----------------------------------
 
 Your CRM administrator is able to provide you with the names of the attributes
 that are available in your CRM.
 
-Identity Sitecore Campaign Property
+Identify Sitecore Campaign Property
 -------------------------------------
 
 Dynamics CRM Connect interacts with Sitecore campaigns using the following type:
@@ -46,12 +46,12 @@ value is written to the Sitecore campaign.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Dynamics CRM > CRM Campaign Attributes**.
 #. Insert a new item using the template **Entity Attribute Value Accessor**.
-#. In the field **Attribute name**, enter the name of the attribute from the section `Identity CRM Campaign Attribute`_.
+#. In the field **Attribute name**, enter the name of the attribute from the section `Identify CRM Campaign Attribute`_.
 #. Save the item.
 
 .. tip::
   For more information on the value accessor used with CRM entity 
-  attributes, see :ref:`crm-entity-value-accessor`. 
+  attributes, see :doc:`/components/data-access/value-accessors/crm/entities/attribute-value`. 
 
 Value Accessor for Sitecore Campaign
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,12 +63,12 @@ read from the CRM campaign to the Sitecore campaign.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Sitecore > Sitecore Campaign Entity Fields**.
 #. Insert a new item using the template **Property Value Accessor**.
-#. In the field **Property name**, enter the name of the property from the section `Identity Sitecore Campaign Property`_.
+#. In the field **Property name**, enter the name of the property from the section `Identify Sitecore Campaign Property`_.
 #. Save the item.
 
 .. tip::
   For more information on the value accessor used with CRM entity 
-  attributes, see :ref:`framework-property-value-accessor`. 
+  attributes, see :doc:`/components/data-access/value-accessors/crm/entities/attribute-value`. 
 
 Define Value Mapping
 ---------------------

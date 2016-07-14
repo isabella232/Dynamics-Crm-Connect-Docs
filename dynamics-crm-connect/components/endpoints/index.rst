@@ -1,12 +1,10 @@
-.. _endpoints:
-
 Endpoints
 ======================================
 
 An *endpoint* represents a data source that you can read from and/or write to. 
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

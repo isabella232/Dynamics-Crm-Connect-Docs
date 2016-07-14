@@ -1,22 +1,30 @@
 Component Reference
 ========================
 
-Topics
-------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
-    tenants/index
-    pipeline-batches/index
-    endpoints/index
-    pipeline-steps/index
-    data-access/index
-    data-mapping/index
-    sitecore-rules/index
     crm-filter-expressions/index
     crm-entity-repos/index
-    sitecore-task-commands/index
+    data-access/index
+    data-mapping/index
+    endpoints/index
+    pipeline-batches/index
+    pipeline-steps/index
     queue-processors/index
+    sitecore-task-commands/index
+    tenants/index
+    
+Other Components
+-------------------
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 2
+
+    sitecore-rules/index
     

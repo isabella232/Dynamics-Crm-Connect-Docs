@@ -1,5 +1,3 @@
-.. _value-readers:
-
 Value Readers
 =======================
 
@@ -24,8 +22,8 @@ object. But you need the value in a specific format: ``yyyy-MM-dd``.
 A value reader can be used to read the ``DateTime`` and then 
 convert that object to a string.
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

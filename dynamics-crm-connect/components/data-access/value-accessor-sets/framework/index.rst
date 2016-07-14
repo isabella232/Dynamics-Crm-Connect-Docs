@@ -1,5 +1,3 @@
-.. _framework-value-accessor-sets:
-
 Data Exchange Framework
 ============================
 
@@ -10,11 +8,11 @@ These *value accessor sets* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Value Accessors** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
-    base-value-accessor-set
+    value-accessor-set

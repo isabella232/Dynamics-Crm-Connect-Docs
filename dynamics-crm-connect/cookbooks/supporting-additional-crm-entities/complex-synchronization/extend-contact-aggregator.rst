@@ -1,5 +1,3 @@
-.. _extend-contact-aggregator:
-
 Extend Contact Aggregator
 ======================================
 
@@ -9,7 +7,7 @@ The aggregation process ensures the contact is reindexed.
 A component called a contact aggregator is responsible for 
 creating the indexable contact from the xDB contact. In other 
 words, the contact aggregator converts the xDB contact into an 
-instance of the class you created in :ref:`extend-indexable-contact`.
+instance of the class you created in :doc:`extend-indexable-contact`.
 
 You must create a custom contact aggregator that uses the 
 indexable contact class.

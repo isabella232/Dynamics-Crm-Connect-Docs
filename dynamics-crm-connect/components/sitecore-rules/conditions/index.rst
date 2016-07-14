@@ -1,5 +1,3 @@
-.. _sitecore-rules-conditions:
-
 Conditions
 =======================================
 

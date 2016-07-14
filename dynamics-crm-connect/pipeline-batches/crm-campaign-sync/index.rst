@@ -1,5 +1,3 @@
-.. _crm-campaign-sync:
-
 CRM Campaign Synchronization
 =======================================
 

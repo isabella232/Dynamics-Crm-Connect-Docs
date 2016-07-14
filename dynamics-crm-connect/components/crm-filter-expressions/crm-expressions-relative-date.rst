@@ -1,5 +1,3 @@
-.. _crm-expressions-relative-date:
-
 Relative Date Condition Expression
 ======================================
 
@@ -25,7 +23,7 @@ generated date range condition. To use the examples above:
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Relative Date Condition Expression**                    |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`crm-expressions-base-attribute`                     |
+| Base template   | :doc:`crm-expressions-base-attribute`                     |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

@@ -1,5 +1,3 @@
-.. _rename-tenant:
-
 Rename a Tenant
 =======================
 

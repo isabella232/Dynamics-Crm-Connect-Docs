@@ -1,5 +1,3 @@
-.. sitecore-value-accessor-sets:
-
 Sitecore
 ============================
 
@@ -10,8 +8,8 @@ These *value accessor sets* are used for Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Data Access** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

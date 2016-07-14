@@ -1,5 +1,3 @@
-.. _add-entity-repo-to-entity-repo-set:
-
 Add Entity Repository to Entity Repository Set
 ===============================================
 

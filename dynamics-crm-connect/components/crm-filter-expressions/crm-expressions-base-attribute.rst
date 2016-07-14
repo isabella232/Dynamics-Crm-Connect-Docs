@@ -1,5 +1,3 @@
-.. _crm-expressions-base-attribute:
-
 Base Entity Attribute Value Condition Expression
 ======================================================
 

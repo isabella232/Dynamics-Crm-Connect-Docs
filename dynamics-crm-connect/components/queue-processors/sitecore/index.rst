@@ -1,5 +1,3 @@
-.. _sitecore-queue-processors:
-
 Sitecore
 ============================
 
@@ -10,8 +8,8 @@ These *queue processors* are used to process entries that represent Sitecore dat
 
     **Templates > Data Exchange > Sitecore > Queues** 
 
-Types
-------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:

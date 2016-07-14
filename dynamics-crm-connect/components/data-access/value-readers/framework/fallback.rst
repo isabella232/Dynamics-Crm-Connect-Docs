@@ -1,5 +1,3 @@
-.. _framework-fallback-value-reader:
-
 Fallback
 ==========================================
 
@@ -8,12 +6,12 @@ that are used in the event that no value is read.
 
 .. tip:: 
 
-    This value reader is usually used with a :ref:`framework-sequential-value-reader`. 
+    This value reader is usually used with a :doc:`sequential` value reader. 
 
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Fallback Value Reader**                                 |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

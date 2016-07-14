@@ -1,13 +1,17 @@
-.. _add-templates-for-crm-entity-data:
-
 Add Templates for CRM Entity Data
 ===================================
 
-You have configured the ability for an xDB contact to be associated with a CRM account. Now you must create a Sitecore template that can be used to store information about the CRM account.
+You have configured the ability for an xDB contact to be associated with
+ a CRM account. Now you must create a Sitecore template that can be used 
+ to store information about the CRM account.
 
-Having Sitecore items that represent CRM accounts will allow your users to configure rules based on account membership. For example, a marketer will be able to personalize a web page based on whether or not a visitor is associated with a specific account.
+Having Sitecore items that represent CRM accounts will allow your users 
+to configure rules based on account membership. For example, a marketer 
+will be able to personalize a web page based on whether or not a visitor 
+is associated with a specific account.
 
-The marketer must be able to select from a list of available accounts. This is the purpose of exposing CRM accounts as Sitecore items.
+The marketer must be able to select from a list of available accounts. 
+This is the purpose of exposing CRM accounts as Sitecore items.
 
 #.	In Sitecore, open Template Manager.
 #.	Navigate to **Templates > Data Exchange > Providers > Dynamics CRM > Folders**.

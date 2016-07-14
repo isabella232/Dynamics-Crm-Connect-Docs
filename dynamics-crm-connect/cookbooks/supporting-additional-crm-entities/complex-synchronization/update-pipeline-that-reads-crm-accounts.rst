@@ -1,5 +1,3 @@
-.. _update-pipeline-that-reads-crm-accounts:
-
 Update Pipeline that Reads CRM Accounts
 ============================================
 

@@ -1,5 +1,3 @@
-.. _add-value-accessor-set-for-sitecore-contact:
-
 Add Value Accessor Set for Sitecore Contact
 ============================================
 

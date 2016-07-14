@@ -1,5 +1,3 @@
-.. _tenants:
-
 Tenants
 =======================
 
@@ -12,8 +10,8 @@ settings so that multiple configurations can coexist.
     **Templates > Data Exchange > Framework > Tenants** 
 
 
-Topics
--------------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:

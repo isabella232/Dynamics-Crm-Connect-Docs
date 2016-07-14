@@ -1,5 +1,3 @@
-.. _crm-entity-repos:
-
 CRM Entity Repositories
 =======================================
 
@@ -33,7 +31,7 @@ optimized code is used.
     **Templates > Data Exchange > Providers > Dynamics CRM > Repositories** 
 
 
-Topics
+Templates
 -------------
 
 .. toctree::

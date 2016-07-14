@@ -1,5 +1,3 @@
-.. _crm-generic-entity-repo:
-
 Base Entity Repository
 ==========================================
 

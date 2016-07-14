@@ -1,5 +1,3 @@
-.. _update-pipeline-batch:
-
 Update Pipeline Batch
 ============================================
 

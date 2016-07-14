@@ -9,7 +9,7 @@ The marketing list synchronization process involves the following steps:
 #.	Reset marketing lists assigned to existing xDB contacts.
 
    .. note::
-     For more information on why marketing lists are reset, see :ref:`about-rest-crm-marketinglist`.
+     For more information on why marketing lists are reset, see :doc:`about-reset-marketing-lists`.
 
 2. Read marketing lists from CRM.
 3. Loop through the marketing lists from CRM. For each marketing list:

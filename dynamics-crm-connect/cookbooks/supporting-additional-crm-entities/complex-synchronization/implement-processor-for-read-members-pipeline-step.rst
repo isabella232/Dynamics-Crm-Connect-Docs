@@ -1,5 +1,3 @@
-.. _implement-processor-for-read-members-pipeline-step:
-
 Implement Processor for Read Members Pipeline Step
 ====================================================
 

@@ -1,5 +1,3 @@
-.. _sitecore-queue-processors-xdb-contacts:
-
 xDB Contacts
 ==========================================
 
@@ -9,7 +7,7 @@ those contacts to xDB using the bulk contact update API.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Queue Processor for xDB Contact**                       |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-queue-processor-base`                     |
+| Base template   | :doc:`../framework/base-queue-processor`                  |
 +-----------------+-----------------------------------------------------------+
 
 This queue processor handles the following types of queue entries:

@@ -1,11 +1,9 @@
-.. _assign-converter-and-processor-to-pipeline-step-template:
-
 Assign Converter & Processor to Pipeline Step Template
 =======================================================
 
-The converter created in :ref:`implement-converter-for-read-members-pipeline-step` 
+The converter created in :doc:`implement-converter-for-read-members-pipeline-step` 
 is always used to convert items based on the template created in 
-:ref:`add-template-for-read-members-pipeline-step`. The processor 
+:doc:`add-template-for-read-members-pipeline-step`. The processor 
 created in section is always used to run the *pipeline step*. This 
 can be set up on the template so the converter is assigned 
 automatically when a new item is created.

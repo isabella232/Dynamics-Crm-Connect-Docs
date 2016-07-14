@@ -1,5 +1,3 @@
-.. _standard-pipeline-batches:
-
 Standard Pipeline Batches
 =======================================
 

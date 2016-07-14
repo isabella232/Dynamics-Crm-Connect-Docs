@@ -1,5 +1,3 @@
-.. _custom-entity-data-segmentation:
-
 Segmentation
 =======================================
 
@@ -45,7 +43,7 @@ as a segmentation condition.
 
     **where the contact is a member of the account [externalentityid,CRM Connect/DependentTree,dependency=tenant&mode=descendant&templateid={0DE319D9-125C-42F3-B330-05C30D1B42D3}&rootitemname=Accounts&selection=[ACCOUNT-TEMPLATE-ID]&setRootAsSearchRoot=true,specific account] from the tenant [tenant,Tree,root={5EE8330D-E35E-433B-9BA6-DAF87ED38867}&selection={327A381B-59F8-4E88-B331-BEBC7BD87E4E}&setRootAsSearchRoot=true,specific tenant]**
 
-8.	In the field **Text**, change **[ACCOUNT-TEMPLATE-ID]** to the ID of the template created in :ref:`add-templates-for-crm-entity-data`.
+8.	In the field **Text**, change **[ACCOUNT-TEMPLATE-ID]** to the ID of the template created in :doc:`../simple-synchronization/add-templates-for-crm-entity-data`.
 9.	Set the following field value:
 
     +--------------+----------------------------------------------------------------------------------------+

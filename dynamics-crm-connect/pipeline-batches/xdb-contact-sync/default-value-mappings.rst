@@ -1,5 +1,3 @@
-.. _default-value-mappings-xdb-contact:
-
 Default Value Mappings
 ==============================
 

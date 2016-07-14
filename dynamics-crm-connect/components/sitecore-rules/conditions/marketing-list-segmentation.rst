@@ -1,5 +1,3 @@
-.. _condition-marketing-list-segmentation:
-
 Marketing List Segmentation
 ====================================================
 

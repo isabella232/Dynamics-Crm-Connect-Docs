@@ -1,19 +1,19 @@
-.. _framework-pipeline-step-process-queue:
-
-Process Queue
+Base Process Queue
 =============================
 
-This *pipeline step* is used to process the items in a *work queue* 
-using a *queue processor*, which can run additional *pipeline batches*
-after the queue entries have been processed.
+This template is the base template for any *pipeline step* that processes the items  
+in a *work queue* using a *queue processor*. After the queue entries are processed,
+additional *pipeline batches* are run (if specified).
+
+.. include:: ../../../../common/base-template-always-inherit-notice.txt
 
 Template Information
 -----------------------------
 
 +--------------------------------+--------------------------------------------------------------------------+
-| Template name                  | **Process Queue Pipeline Step**                                          |
+| Template name                  | **Base Process Queue Pipeline Step**                                     |
 +--------------------------------+--------------------------------------------------------------------------+
-| Base template                  | :ref:`framework-pipeline-step-base`                                      |
+| Base template                  | :doc:`pipeline-step`                                                     |
 +--------------------------------+--------------------------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+
@@ -29,9 +29,11 @@ Plugin Information
 -----------------------------
 
 +-----------------------------------+-----------------------------------------------------------------------+
-| ``ParentPipelineContextSettings`` | | Provides access to the current pipeline context to the pipeline     | 
-|                                   | | batches specified in the ``Post-process pipeline batches`` field.   | 
+| ``ParentPipelineContextSettings`` | | Provides access to the current pipeline context to the              | 
+|                                   | | pipeline batches specified in the ``Post-process pipeline batches`` |
+|                                   | | field.                                                              | 
 |                                   | |                                                                     |
 |                                   | | This pipeline step creates this plugin and adds it to the new       |
-|                                   | | pipeline context that is passed to the specified pipeline batches.  |
+|                                   | | pipeline context that is passed to the specified pipeline           |
+|                                   | | batches.                                                            |
 +-----------------------------------+-----------------------------------------------------------------------+

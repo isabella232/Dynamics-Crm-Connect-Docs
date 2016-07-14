@@ -1,5 +1,3 @@
-.. _framework-raw-value-reader:
-
 Raw Value
 ==========================================
 
@@ -11,5 +9,5 @@ the source object because the source object *is* the value.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Raw Value Reader**                                      |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+

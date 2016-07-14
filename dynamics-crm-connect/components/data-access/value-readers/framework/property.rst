@@ -1,5 +1,3 @@
-.. _framework-property-value-reader:
-
 Property
 ==========================================
 
@@ -8,7 +6,7 @@ This *value reader* is used to read the value of a property from a .NET object.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Property Value Reader**                                 |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

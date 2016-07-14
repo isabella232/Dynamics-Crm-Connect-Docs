@@ -1,9 +1,7 @@
-.. _framework-base-value-mapping:
-
-Base Value Mapping
+Value Mapping
 ==========================================
 
-This *value mapping* allows the *value accessors* to be set explicitly.
+This template is the base template for all *value mapping* templates.
 
 .. include:: ../../../../../common/base-template-never-inherit-notice.txt
 
@@ -16,9 +14,9 @@ This *value mapping* allows the *value accessors* to be set explicitly.
 +-------------------------------------------+---------------------------------------------------------------+
 | Field                                     | Description                                                   |
 +===========================================+===============================================================+
-| ``Value accessor for source object``      | Value accessor used to read the value from the source object. |
+| ``Value accessor for source object``      | Value accessor that reads from the source object.             |
 +-------------------------------------------+---------------------------------------------------------------+
-| ``Value accessor for target object``      | Value accessor used to write the value to the target object.  |
+| ``Value accessor for target object``      | Value accessor that writes to the target object.              |
 +-------------------------------------------+---------------------------------------------------------------+
 
 

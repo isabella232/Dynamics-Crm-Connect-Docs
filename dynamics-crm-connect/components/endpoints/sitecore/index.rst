@@ -1,5 +1,3 @@
-.. _sitecore-endpoints:
-
 Sitecore
 ============================
 
@@ -10,8 +8,8 @@ These *endpoints* are used to interact with Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Endpoints** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

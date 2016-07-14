@@ -1,5 +1,3 @@
-.. _default-value-mappings-crm-contact:
-
 Default Value Mappings
 ==============================
 

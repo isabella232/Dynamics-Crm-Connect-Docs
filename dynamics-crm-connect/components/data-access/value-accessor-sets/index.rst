@@ -1,5 +1,3 @@
-.. _value-accessor-sets:
-
 Value Accessor Sets
 =======================
 
@@ -13,8 +11,8 @@ identify the attributes you want to read. Each attribute is
 represented using a value accessor. The collection of all of the 
 attributes you want to read is represented by a value accessor set.
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

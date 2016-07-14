@@ -1,5 +1,3 @@
-.. _extend-dynamics-crm-contact-facet:
-
 Extend Dynamics CRM Contact Facet
 ======================================
 

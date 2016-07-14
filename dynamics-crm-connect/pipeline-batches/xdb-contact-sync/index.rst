@@ -1,5 +1,3 @@
-.. _xdb-contact-sync:
-
 xDB Contact Synchronization
 =======================================
 

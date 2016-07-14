@@ -1,5 +1,3 @@
-.. _supporting-additional-crm-entities:
-
 Supporting Additional CRM Entities
 =======================================
 

@@ -1,5 +1,3 @@
-.. _framework-queue-processors:
-
 Data Exchange Framework
 ============================
 
@@ -10,8 +8,8 @@ These *queue processors* are used to process any kind of entries.
 
     **Templates > Data Exchange > Framework > Queues** 
 
-Types
-------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:

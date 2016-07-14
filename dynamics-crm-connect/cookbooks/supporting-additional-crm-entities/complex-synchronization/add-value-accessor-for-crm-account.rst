@@ -1,5 +1,3 @@
-.. _add-value-accessor-for-crm-account:
-
 Add Value Accessor Set for CRM Account
 ======================================
 

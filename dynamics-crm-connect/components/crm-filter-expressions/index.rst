@@ -1,5 +1,3 @@
-.. _crm-filter-expressions:
-
 CRM Filter Expressions
 ======================================
 
@@ -27,7 +25,7 @@ reflect options that are available from the Dynamics CRM API.
     accurately reflect the marketing list membership?
 
 
-Topics
+Templates
 -------------
 
 .. toctree::

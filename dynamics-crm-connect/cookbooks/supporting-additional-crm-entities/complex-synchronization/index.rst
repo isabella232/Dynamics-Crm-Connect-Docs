@@ -1,9 +1,7 @@
-.. _complex-sync-for-crm-entities:
-
 Complex Synchronization
 =======================================
 
-In :ref:`complex-sync-for-crm-entities`, you configured a synchronization 
+In :doc:`../simple-synchronization/index`, you configured a synchronization 
 process that represents CRM accounts as Sitecore items. The real power of 
 having access to CRM accounts is when you are able to associate an xDB 
 contact with a CRM account.
@@ -22,7 +20,7 @@ Custom development is required for the following parts of the solution:
 In order to keep the instructions as simple as possible, a specific example 
 is used to describe this configuration:
 
-* This example builds on the example covered in :ref:`complex-sync-for-crm-entities`.
+* This example builds on the example covered in :doc:`../simple-synchronization/index`.
 * Each CRM contact is a part of an account. You want to associate the Sitecore contact with the CRM account by setting a value on a custom contact facet.
 
 .. note:: 

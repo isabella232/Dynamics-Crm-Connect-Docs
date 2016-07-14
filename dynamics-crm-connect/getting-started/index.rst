@@ -1,5 +1,3 @@
-.. _getting-started:
-
 Getting Started
 =======================================
 This section will help you get started using Dynamics CRM Connect.

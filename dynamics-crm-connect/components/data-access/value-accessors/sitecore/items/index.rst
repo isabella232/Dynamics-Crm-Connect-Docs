@@ -1,12 +1,10 @@
-.. _sitecore-item-value-accessors:
-
 Sitecore Items
 ===================================
 
 These value accessors handle values that are stored in Sitecore items.
 
-Topics
--------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

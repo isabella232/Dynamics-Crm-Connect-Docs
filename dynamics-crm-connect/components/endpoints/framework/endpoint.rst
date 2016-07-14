@@ -1,13 +1,13 @@
-.. _framework-generic-value-accessor-set:
-
-Base Value Accessor Set
+Endpoint
 ==========================================
 
-This template is the base template for all *value accessor sets*.
-:ref:`value-accessors` are added as children. 
+This template is the base template for all *endpoints*.
+
+.. include:: ../../../../common/base-template-always-inherit-notice.txt
 
 +-----------------+-----------------------------------------------------------+
-| Template name   | **Value Accessor Set**                                    |
+| Template name   | **Endpoint**                                              |
 +-----------------+-----------------------------------------------------------+
 | Base template   | none                                                      |
 +-----------------+-----------------------------------------------------------+
+

@@ -1,5 +1,3 @@
-.. _implement-entity-repo-for-account-membership:
-
 Implement Entity Repository for Account Membership
 ====================================================
 

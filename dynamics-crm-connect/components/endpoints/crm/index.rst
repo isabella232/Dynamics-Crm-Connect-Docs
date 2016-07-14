@@ -1,5 +1,3 @@
-.. _crm-endpoints:
-
 Dynamics CRM
 ============================
 
@@ -10,8 +8,8 @@ These *endpoints* are used to interact with Dynamics CRM data.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Endpoints** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

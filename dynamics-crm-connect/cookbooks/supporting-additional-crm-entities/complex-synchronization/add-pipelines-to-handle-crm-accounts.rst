@@ -1,5 +1,3 @@
-.. _add-pipelines-to-handle-crm-accounts:
-
 Add Pipelines to Handle CRM Accounts
 ============================================
 

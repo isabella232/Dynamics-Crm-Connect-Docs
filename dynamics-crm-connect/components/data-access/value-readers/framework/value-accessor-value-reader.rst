@@ -1,5 +1,3 @@
-.. _framework-value-accessor-value-reader:
-
 Value Accessor Value Reader
 ==========================================
 
@@ -10,7 +8,7 @@ This value reader allows you to reuse existing configuration.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Value Accessor Value Reader**                           |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+
@@ -21,8 +19,8 @@ This value reader allows you to reuse existing configuration.
 
 .. tip:: 
 
-    This value reader is used by the :ref:`framework-fallback-value-reader` 
-    that ensures an email address is available on the xDB contact when CRM
+    This value reader is used by the :doc:`fallback` value reader, which 
+    ensures an email address is available on the xDB contact when CRM
     is updated using data from xDB.
 
     The fallback value reader uses value readers, but the ability to access

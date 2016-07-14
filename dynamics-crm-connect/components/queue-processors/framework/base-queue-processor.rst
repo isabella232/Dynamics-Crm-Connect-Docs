@@ -1,5 +1,3 @@
-.. _framework-queue-processor-base:
-
 Base Queue Processor
 ==========================================
 

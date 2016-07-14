@@ -1,5 +1,3 @@
-.. _add-pipelines-to-handle-single-crm-account:
-
 Add Pipelines to Handle Single CRM Account
 ============================================
 

@@ -1,5 +1,3 @@
-.. _add-value-mapping-set-for-account-membership:
-
 Add Value Mapping Set for Account Membership
 ==============================================
 

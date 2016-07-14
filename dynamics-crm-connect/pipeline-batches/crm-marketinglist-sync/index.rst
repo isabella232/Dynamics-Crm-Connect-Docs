@@ -1,5 +1,3 @@
-.. _crm-marketinglist-sync:
-
 CRM Marketing List Synchronization
 =======================================
 

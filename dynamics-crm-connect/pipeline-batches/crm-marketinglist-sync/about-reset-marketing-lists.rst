@@ -1,5 +1,3 @@
-.. _about-rest-crm-marketinglist:
-
 About Reset Marketing Lists
 ============================
 

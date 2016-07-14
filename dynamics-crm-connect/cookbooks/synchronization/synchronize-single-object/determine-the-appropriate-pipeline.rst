@@ -1,5 +1,3 @@
-.. _determine-the-appropriate-pipeline:
-
 Determine the Appropriate Pipeline
 ===================================
 

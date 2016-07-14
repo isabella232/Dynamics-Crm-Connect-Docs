@@ -1,5 +1,3 @@
-.. _command-run-selected-pipeline-batches:
-
 Run Selected Pipeline Batches Command
 ======================================================
 
@@ -8,7 +6,7 @@ This template is used to run the selected *pipeline batches*.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Run Selected Pipeline Batches Command**                 |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`command-base-run-multiple-pipeline-batches`         |
+| Base template   | :doc:`command-base-run-multiple-pipeline-batches`         |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

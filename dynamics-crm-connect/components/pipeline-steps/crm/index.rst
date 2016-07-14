@@ -1,8 +1,4 @@
-.. include:: ../../../../common/stub-topic.txt
-
-.. _crm-pipeline-steps:
-
-|stub-icon| Dynamics CRM
+Dynamics CRM
 ============================
 
 These *pipeline steps* are used to interact with Dynamics CRM.
@@ -12,8 +8,8 @@ These *pipeline steps* are used to interact with Dynamics CRM.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Pipeline Steps** 
 
-Types
-------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:

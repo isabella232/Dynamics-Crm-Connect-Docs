@@ -1,5 +1,3 @@
-.. _register-contact-facet-and-aggregator:
-
 Register Contact Facet & Aggregator
 ======================================
 

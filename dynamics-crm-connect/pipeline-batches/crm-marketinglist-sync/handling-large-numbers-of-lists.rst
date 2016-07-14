@@ -1,5 +1,3 @@
-.. _handling-large-numbers-of-lists:
-
 Handling Large Numbers of Marketing Lists
 ============================================
 

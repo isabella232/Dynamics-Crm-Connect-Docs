@@ -1,11 +1,9 @@
-.. _assign-converter-to-entity-repo-template:
-
 Assign Converter to Entity Repository Template
 ====================================================
 
-The converter created in :ref:`implement-converter-for-entity-repo-template` 
+The converter created in :doc:`implement-converter-for-entity-repo-template` 
 is always used to convert items based on the template created in 
-:ref:`add-template-for-entity-repo`. This can be set up on the template 
+:doc:`add-template-for-entity-repo`. This can be set up on the template 
 so the converter is assigned automatically when a new item is created.
 
 1.	In Sitecore, open Template Manager.

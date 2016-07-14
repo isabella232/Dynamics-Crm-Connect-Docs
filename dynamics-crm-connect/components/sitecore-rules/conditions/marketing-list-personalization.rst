@@ -1,5 +1,3 @@
-.. _condition-marketing-list-personalization:
-
 Marketing List Personalization
 ====================================================
 

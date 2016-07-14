@@ -1,5 +1,3 @@
-.. _framework-value-writers:
-
 Data Exchange Framework
 ============================
 
@@ -17,4 +15,4 @@ Types
     :titlesonly:
     :maxdepth: 2
 
-    base-value-writer
+    value-writer

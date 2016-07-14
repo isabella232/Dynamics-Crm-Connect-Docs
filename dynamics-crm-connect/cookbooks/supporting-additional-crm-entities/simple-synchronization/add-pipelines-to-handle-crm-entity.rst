@@ -1,5 +1,3 @@
-.. _add-pipelines-to-handle-crm-entity:
-
 Add Pipelines to Handle CRM Entity
 =====================================
 

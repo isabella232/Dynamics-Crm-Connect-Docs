@@ -1,5 +1,3 @@
-.. _crm-contact-sync:
-
 CRM Contact Synchronization
 =======================================
 

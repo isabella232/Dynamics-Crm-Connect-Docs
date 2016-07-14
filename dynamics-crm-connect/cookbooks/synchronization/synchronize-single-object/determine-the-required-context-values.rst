@@ -1,5 +1,3 @@
-.. _determine-the-required-context-values:
-
 Determine the Required Context Values
 =======================================
 
@@ -13,7 +11,7 @@ for yourself.
 
 .. tip:: 
     Detailed sequence diagrams are available for each of the 
-    :ref:`standard-pipeline-batches` that are included with Dynamics 
+    :doc:`/pipeline-batches/index` that are included with Dynamics 
     CRM Connect. A link to the sequence diagram is available on the 
     **overview** page for each pipeline batch. 
 

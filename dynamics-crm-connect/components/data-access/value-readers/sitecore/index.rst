@@ -1,5 +1,3 @@
-.. sitecore-value-readers:
-
 Sitecore
 ============================
 
@@ -10,8 +8,8 @@ These *value readers* are used to read Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Data Access** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

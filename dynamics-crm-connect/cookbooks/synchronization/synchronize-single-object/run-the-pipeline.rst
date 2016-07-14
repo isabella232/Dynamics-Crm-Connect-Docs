@@ -1,5 +1,3 @@
-.. _run-the-pipeline:
-
 Run the Pipeline
 =======================================
 

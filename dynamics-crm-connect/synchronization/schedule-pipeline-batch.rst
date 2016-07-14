@@ -28,5 +28,5 @@ templates can be used to create commands that can be scheduled as tasks:
 
 .. hint:: 
 
-    These templates are described in detail in the :ref:`sitecore-task-commands` 
+    These templates are described in detail in the :doc:`/components/sitecore-task-commands/index` 
     section.

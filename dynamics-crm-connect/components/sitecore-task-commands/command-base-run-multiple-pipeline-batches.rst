@@ -1,5 +1,3 @@
-.. _command-base-run-multiple-pipeline-batches:
-
 Base Run Multiple Pipeline Batches Command
 ======================================================
 
@@ -30,7 +28,8 @@ running multiple *pipeline batches*.
 |                                               | | is running, subsequent pipeline batches will be run.    |
 |                                               | |                                                         |
 |                                               | | If unticked and an error occurs while a pipeline batch  |
-|                                               | | is running, no subsequent pipeline batches will be run. |
+|                                               | | is running, no subsequent pipeline batches will be      |
+|                                               | | run.                                                    |
 +-----------------------------------------------+-----------------------------------------------------------+
 | ``Run pipeline batches asynchronously``       | | If ticked, pipeline batches will be run asynchronously. |
 |                                               | |                                                         |

@@ -1,5 +1,3 @@
-.. _crm-pipeline-step-read-entities:
-
 Read CRM Entities
 =============================
 
@@ -11,17 +9,17 @@ Template Information
 +-----------------------------------+-----------------------------------------------------------------------+
 | Template name                     | **Read CRM Entities Pipeline Step**                                   |
 +-----------------------------------+-----------------------------------------------------------------------+
-| Base template                     | :ref:`framework-pipeline-step-base`                                   |
+| Base template                     | :doc:`../framework/pipeline-step`                                     |
 +-----------------------------------+-----------------------------------------------------------------------+
 
-.. |attributes-to-read| replace:: :ref:`crm-entity-attributes-accessor-set`
-.. |filters| replace:: :ref:`crm-filter-expressions`
+.. |ep| replace:: :doc:`/components/endpoints/crm/crm-entities`
+.. |attributes-to-read| replace:: :doc:`/components/data-access/value-accessor-sets/crm/entity-attributes`
+.. |filters| replace:: :doc:`/components/crm-filter-expressions/index`
 
 +-------------------------------------------------+---------------------------------------------------------+
 | Field                                           | Description                                             |
 +=================================================+=========================================================+
-| ``Endpoint for Dynamics CRM entity repository`` | | The :ref:`crm-endpoint-entities` *endpoint* from      |
-|                                                 | | which entities are read.                              |   
+| ``Endpoint for Dynamics CRM entity repository`` | | The |ep| *endpoint* from which entities are read.     |   
 +-------------------------------------------------+---------------------------------------------------------+
 | ``Entity name``                                 | | Name of the entity to read from CRM.                  |
 |                                                 | |                                                       |

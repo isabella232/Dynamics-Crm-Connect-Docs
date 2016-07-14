@@ -7,7 +7,7 @@ connected to an *entity repository set*.
 
 #.	Navigate to your *tenant*.
 #.  Navigate to **Endpoints > Providers > Dynamics CRM > Dynamics CRM Entity Endpoint**.
-#.	In the field **Entity repository set**, select the entity repository set you created in :doc:`Add Entity Repository Set </getting-started/add-entity-repo-set>`.
+#.	In the field **Entity repository set**, select the entity repository set you created in :doc:`add-entity-repo-set`.
 #.	Save the item.
 
 .. note::

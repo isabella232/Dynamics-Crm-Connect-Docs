@@ -1,5 +1,3 @@
-.. _add-template-for-read-members-pipeline-step:
-
 Add Template for Read Members Pipeline Step
 ====================================================
 

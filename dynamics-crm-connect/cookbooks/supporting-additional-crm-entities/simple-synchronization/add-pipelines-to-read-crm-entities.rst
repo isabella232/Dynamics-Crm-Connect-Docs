@@ -1,10 +1,8 @@
-.. _add-pipelines-to-read-crm-entities:
-
 Add Pipelines to Read CRM Entities
 =====================================
 
 A *pipeline* is needed to read accounts from CRM and to pass each account 
-to the pipeline configured in :ref:`add-pipelines-to-handle-crm-entity`. 
+to the pipeline configured in :doc:`add-pipelines-to-handle-crm-entity`. 
 
 1.	Navigate to your tenanr.
 2.	Navigate to **Pipelines > CRM Account Pipelines**.

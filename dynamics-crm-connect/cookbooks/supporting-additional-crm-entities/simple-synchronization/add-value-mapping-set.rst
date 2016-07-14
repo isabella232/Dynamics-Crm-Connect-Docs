@@ -1,5 +1,3 @@
-.. _add-value-mapping-set:
-
 Add Value Mapping Set
 ===========================
 

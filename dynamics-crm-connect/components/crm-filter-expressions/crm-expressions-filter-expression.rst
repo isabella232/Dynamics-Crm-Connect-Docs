@@ -1,5 +1,3 @@
-.. _crm-expressions-filter-expression:
-
 Filter Expression
 ======================================
 

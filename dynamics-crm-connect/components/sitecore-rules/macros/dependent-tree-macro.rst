@@ -1,5 +1,3 @@
-.. _dependent-tree-macro:
-
 Dependent Tree Macro
 =======================================
 

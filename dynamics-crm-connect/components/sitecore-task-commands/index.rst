@@ -1,5 +1,3 @@
-.. _sitecore-task-commands:
-
 Sitecore Task Commands
 ======================================
 
@@ -11,8 +9,8 @@ to run as scheduled tasks.
 
     **Templates > Data Exchange > Framework > Tasks** 
 
-Topics
--------------
+Templates
+-------------------
 
 .. toctree::
     :titlesonly:

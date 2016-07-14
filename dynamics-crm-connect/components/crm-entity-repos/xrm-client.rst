@@ -1,5 +1,3 @@
-.. _crm-xrm-client-entity-repo:
-
 XRM Client Entity Repository
 ==========================================
 
@@ -13,6 +11,6 @@ This *entity repository* uses the XRM client to access entities.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **XRM Client Entity Repository**                          |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`crm-generic-entity-repo`                            |
+| Base template   | :doc:`base-entity-repo`                                   |
 +-----------------+-----------------------------------------------------------+
 

@@ -1,5 +1,3 @@
-.. _crm-expressions-date-range:
-
 Date Range Condition Expression
 ======================================
 
@@ -9,7 +7,7 @@ the value of an attribute is within a date range.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Date Range Condition Expression**                       |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`crm-expressions-base-attribute`                     |
+| Base template   | :doc:`crm-expressions-base-attribute`                     |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

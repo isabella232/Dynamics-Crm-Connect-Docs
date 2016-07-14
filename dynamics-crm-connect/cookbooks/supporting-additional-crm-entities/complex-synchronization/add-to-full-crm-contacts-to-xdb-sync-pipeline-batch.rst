@@ -1,5 +1,3 @@
-.. _add-to-full-crm-contacts-to-xdb-sync-pipeline-batch:
-
 Add to Full CRM Contacts to xDB Sync Pipeline Batch
 ======================================================
 

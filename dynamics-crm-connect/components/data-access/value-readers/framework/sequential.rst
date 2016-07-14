@@ -1,5 +1,3 @@
-.. _framework-sequential-value-reader:
-
 Sequential
 ==========================================
 
@@ -14,5 +12,5 @@ requiring custom development.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Sequential Value Reader**                               |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`framework-generic-value-reader`                     |
+| Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+

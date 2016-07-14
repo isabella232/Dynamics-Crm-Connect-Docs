@@ -1,6 +1,4 @@
-.. _framework-pipeline-step-base:
-
-Base Pipeline Step
+Pipeline Step
 ==========================================
 
 This template is the base template for all *pipeline steps*.

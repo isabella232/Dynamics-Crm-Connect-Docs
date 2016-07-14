@@ -1,13 +1,11 @@
-.. _data-mapping:
-
 Data Mapping
 =============================
 
 This section covers components involved with mapping data from a 
 *source object* to a *target object*. 
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

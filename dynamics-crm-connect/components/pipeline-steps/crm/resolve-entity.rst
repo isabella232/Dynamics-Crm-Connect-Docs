@@ -1,5 +1,3 @@
-.. _crm-pipeline-step-resolve-entity:
-
 Resolve CRM Entity
 =============================
 
@@ -9,11 +7,11 @@ an attribute value.
 +-----------------------------------+-----------------------------------------------------------------------+
 | Template name                     | **Resolve CRM Entity Pipeline Step**                                  |
 +-----------------------------------+-----------------------------------------------------------------------+
-| Base template                     | :ref:`framework-pipeline-step-base-resolve-object`                    |
+| Base template                     | :doc:`../framework/base-resolve-object`                               |
 +-----------------------------------+-----------------------------------------------------------------------+
 
-.. |endpoint| replace:: :ref:`crm-endpoint-entities`
-.. |attributes-to-read| replace:: :ref:`crm-entity-attributes-accessor-set`
+.. |endpoint| replace:: :doc:`/components/endpoints/crm/crm-entities`
+.. |attributes-to-read| replace:: :doc:`/components/data-access/value-accessor-sets/crm/entity-attributes`
 
 +-------------------------------------------------+---------------------------------------------------------+
 | Field                                           | Description                                             |

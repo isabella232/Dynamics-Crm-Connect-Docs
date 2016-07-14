@@ -1,5 +1,3 @@
-.. _confirm-crm-privileges:
-
 Confirm CRM Privileges
 ===========================
 

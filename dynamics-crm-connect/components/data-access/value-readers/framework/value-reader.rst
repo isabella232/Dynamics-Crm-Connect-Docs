@@ -1,5 +1,3 @@
-.. _framework-generic-value-reader:
-
 Base Value Reader
 ==========================================
 

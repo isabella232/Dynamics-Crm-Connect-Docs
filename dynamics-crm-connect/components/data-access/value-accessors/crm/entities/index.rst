@@ -1,8 +1,8 @@
 Entities
 ===================================
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

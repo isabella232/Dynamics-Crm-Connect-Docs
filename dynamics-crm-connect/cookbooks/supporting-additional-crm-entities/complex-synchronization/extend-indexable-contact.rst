@@ -1,5 +1,3 @@
-.. _extend-indexable-contact:
-
 Extend Indexable Contact
 ======================================
 

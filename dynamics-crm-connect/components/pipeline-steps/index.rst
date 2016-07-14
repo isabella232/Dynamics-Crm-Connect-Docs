@@ -1,7 +1,5 @@
 .. include:: ../../../common/stub-topic.txt
 
-.. _pipeline-steps:
-
 |stub-icon| Pipeline Steps
 =======================================
 
@@ -16,8 +14,8 @@ a pipeline step - and which plugins are provide output from a
 pipeline step - is critical in order to be able to use a pipeline 
 step.  
 
-Topics
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:

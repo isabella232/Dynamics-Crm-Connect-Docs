@@ -1,5 +1,3 @@
-.. _read-inactive-crm-contacts:
-
 Read Inactive CRM Contacts
 =============================
 

@@ -1,5 +1,3 @@
-.. _crm-expressions-numeric:
-
 Numeric Condition Expression
 ======================================
 
@@ -9,7 +7,7 @@ attribute to a numeric value.
 +-----------------+-----------------------------------------------------------+
 | Template name   | **Numeric Condition Expression**                          |
 +-----------------+-----------------------------------------------------------+
-| Base template   | :ref:`crm-expressions-base-attribute`                     |
+| Base template   | :doc:`crm-expressions-base-attribute`                     |
 +-----------------+-----------------------------------------------------------+
 
 +-----------------------------------------------+-----------------------------------------------------------+

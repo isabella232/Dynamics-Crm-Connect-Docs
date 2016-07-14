@@ -1,5 +1,3 @@
-.. _framework-endpoints:
-
 Data Exchange Framework
 ============================
 
@@ -10,12 +8,12 @@ These *endpoints* are used to interact with any kind of data source.
 
     **Templates > Data Exchange > Framework > Endpoints** 
 
-Types
-------
+Templates
+-------------
 
 .. toctree::
     :titlesonly:
     :maxdepth: 2
 
-    base-endpoint
+    endpoint
     queue

@@ -1,5 +1,3 @@
-.. _add-value-accessor-set-for-sitecore-item:
-
 Add Value Accessor Set for Sitecore Item
 =========================================
 

@@ -4,7 +4,7 @@ Filter CRM Contacts
 By default, all active contacts with an email address are read from 
 Dynamics CRM. This is actually a combination of two things:
 
-* The built in filter for active contacts (which can be disabled as described in the section :ref:`read-inactive-crm-campaigns`)
+* The built in filter for active contacts (which can be disabled as described in the section :doc:`/pipeline-batches/crm-contact-sync/read-inactive-contacts`)
 * A pre-configured expression filter for contacts with email addresses.
 
 The pre-configured expression filter is set on the following item under your *tenant*:
@@ -21,5 +21,5 @@ The pre-configured expression filter is set on the following item under your *te
 
 This pre-configured expression filter can be changed or replaced as 
 needed. Details on how to configure filter expressions are available
-in the section :ref:`crm-filter-expressions`.
+in the section :doc:`/components/crm-filter-expressions/index`.
 

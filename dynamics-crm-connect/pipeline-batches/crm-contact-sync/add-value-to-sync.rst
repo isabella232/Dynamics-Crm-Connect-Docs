@@ -1,9 +1,7 @@
-.. _crm-contact-add-value:
-
 Add Value to Synchronize
 ==========================
 
-The default value mappings are described in the :ref:`default-value-mappings-crm-contact`
+The default value mappings are described in the :doc:`/pipeline-batches/crm-contact-sync/default-value-mappings`
 section. These mappings can be changed, and new mappings can be added.
 
 .. contents:: Steps
@@ -14,13 +12,13 @@ In order to add a new field, you must know the attribute from the CRM contact
 that you want to read, and the property on the xDB contact that you want
 to write.
 
-Identity CRM Contact Attribute
+Identify CRM Contact Attribute
 ----------------------------------
 
 Your CRM administrator is able to provide you with the names of the attributes
 that are available in your CRM.
 
-Identity xDB Contact Property
+Identify xDB Contact Property
 -------------------------------------
 
 Values are stored on xDB contacts through contact facets. The contact facets
@@ -50,7 +48,7 @@ whose value is written to the xDB contact.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Dynamics CRM > CRM Contact Attributes**.
 #. Insert a new item using the template **Entity Attribute Value Accessor**.
-#. In the field **Attribute name**, enter the name of the attribute from the section `Identity CRM Contact Attribute`_.
+#. In the field **Attribute name**, enter the name of the attribute from the section `Identify CRM Contact Attribute`_.
 #. Save the item.
 
 .. _crm-contact-add-value-xdb-value-accessor:
@@ -69,13 +67,13 @@ As a result, you must select the appropriate template for the value
 accessor. 
 
 .. hint::
-  The available templates are described in the :ref:`xdb-contact-value-accessors` 
-  section under :ref:`xdb-value-accessors`.
+  The available templates are described in the :doc:`/components/data-access/value-accessors/sitecore/xdb/index` 
+  section under :ref:`xdb-contact-value-accessors`.
 
 #. Navigate to your tenant.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
 #. Navigate to **Sitecore > xDB Contact Entity Fields**.
-#. Insert a new item using the template that is appropriate for the value identified in the section `Identity xDB Contact Property`_.
+#. Insert a new item using the template that is appropriate for the value identified in the section `Identify xDB Contact Property`_.
 #. Set the required fields.
 #. Save the item.
 

@@ -1,5 +1,3 @@
-.. _read-inactive-crm-campaigns:
-
 Read Inactive CRM Campaigns
 =============================
 

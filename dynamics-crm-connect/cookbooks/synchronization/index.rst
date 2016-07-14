@@ -1,5 +1,3 @@
-.. _cookbook-synchronization:
-
 Synchronization
 =======================
 

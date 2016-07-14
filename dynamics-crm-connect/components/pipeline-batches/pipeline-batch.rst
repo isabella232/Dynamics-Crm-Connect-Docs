@@ -1,5 +1,3 @@
-.. _framework-generic-pipeline-batch:
-
 Pipeline Batch
 ==========================================
 
