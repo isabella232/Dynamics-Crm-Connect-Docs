@@ -1,8 +1,16 @@
 Resolve Campaign
 =============================
 
-This *pipeline step* is used to find a marketing campaign in 
-Sitecore using the campaign identifier.
+This *pipeline step* is used to find an instance of 
+``Sitecore.Marketing.Definitions.Campaigns.Data.CampaignActivityDefinitionRecord``  
+in a *campaign definition repository*. The *identifier value* from the 
+*identifier object* is used to perform the search. 
+
+Based on the pipeline step configuration, a new ``CampaignActivityDefinitionRecord`` 
+may be created if one does not already exist. In this case, 
+the identifier value is used as the campaign identifier. 
+Therefore, the identifier value must be a valid constructor 
+argument for ``Sitecore.Data.ID``.
 
 Template Information
 -----------------------------

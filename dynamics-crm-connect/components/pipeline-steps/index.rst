@@ -1,6 +1,4 @@
-.. include:: ../../../common/stub-topic.txt
-
-|stub-icon| Pipeline Steps
+Pipeline Steps
 =======================================
 
 A *pipeline step* represents a unit of work that is performed when 

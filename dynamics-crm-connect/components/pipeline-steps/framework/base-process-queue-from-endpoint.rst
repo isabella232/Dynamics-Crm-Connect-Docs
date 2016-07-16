@@ -3,8 +3,9 @@ Base Process Queue from Endpoint
 
 .. |endpoint| replace:: :doc:`/components/endpoints/framework/queue`
 
-This template is the base template for all *pipeline steps* that are used to 
-interact with a |endpoint| *endpoint*.
+This template is the base template for any *pipeline step* that processes the items  
+in a *work queue* and accesses the queue from a |endpoint| *endpoint*.
+
 
 .. include:: ../../../../common/base-template-always-inherit-notice.txt
 
@@ -17,5 +18,5 @@ interact with a |endpoint| *endpoint*.
 +-----------------------------------+-----------------------------------------------------------------------+
 | Field                             | Description                                                           |
 +===================================+=======================================================================+
-| ``Queue endpoint``                | The |endpoint| endpoint to add entries to.                            |
+| ``Queue endpoint``                | The |endpoint| endpoint that provides access to the queue.            |
 +-----------------------------------+-----------------------------------------------------------------------+

@@ -1,6 +1,4 @@
-.. include:: ../../../../common/stub-topic.txt
-
-|stub-icon| Sitecore
+Sitecore
 ============================
 
 These *pipeline steps* are used to interact with Sitecore.
@@ -18,11 +16,11 @@ Contact Templates
     :maxdepth: 2
     
     read-xdb-contacts
-.. 
     resolve-xdb-contact-from-queue
-    run-bulk-contact-update-from-queue
     resolve-xdb-contact-from-repository
+    run-bulk-contact-update-from-queue
     save-xdb-contact
+   
 
 Campaign Templates
 -------------------
