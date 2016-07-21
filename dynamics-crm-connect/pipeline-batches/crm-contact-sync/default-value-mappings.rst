@@ -7,6 +7,16 @@ from the CRM contact to the xDB contact.
 These mappings are defined in the *value mapping set* named
 **CRM Contact to xDB Contact**.
 
+The following values are written to the xDB contact's identifiers: 
+
+.. csv-table:: 
+   :header: "Property", "Description"
+
+   ``IdentificationLevel``, "The value that indicates the contact is known: ``2``"
+   ``Identifier``, "The value of the CRM contact attribute ``emailaddress1``"
+
+The following values are mapped from the CRM contact to the xDB contact:
+
 .. csv-table:: 
    :header: "CRM Contact", "xDB Contact Facet", "Facet Property", "Description"
 
@@ -24,3 +34,11 @@ These mappings are defined in the *value mapping set* named
     ``jobtitle``, ``Personal``, ``JobTitle``, "Job title"
     ``lastname``, ``Personal``, ``Surname``, "Last name (surname)"
     ``telephone1``, ``Personal``, ``Number``, "Telephone number"
+
+In addition, the following values are written to the xDB contact.
+
+.. csv-table:: 
+   :header: "xDB Contact Facet", "Facet Property", "Description"
+
+    ``DynamicsCrm``, ``LastSynced``, "The date/time when the value mappings were last applied."
+    ``DynamicsCrm``, ``CrmName``, "The tenant name."

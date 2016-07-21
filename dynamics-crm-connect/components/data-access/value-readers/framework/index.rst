@@ -17,6 +17,7 @@ Templates
 
     value-reader
     array-value
+    enum-value
     constant
     fallback
     iso-date
