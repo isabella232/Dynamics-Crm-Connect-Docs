@@ -15,4 +15,6 @@ Types
     :titlesonly:
     :maxdepth: 2
 
+    property
+    target-reader
     value-writer
