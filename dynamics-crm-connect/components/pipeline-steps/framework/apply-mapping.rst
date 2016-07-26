@@ -35,3 +35,8 @@ Plugin Information
 |                                   | | to this pipeline step running, the pipeline step will abort. This   |
 |                                   | | is not a *critical error*.                                          |
 +-----------------------------------+-----------------------------------------------------------------------+
+
+.. hint:: 
+
+    If a *value mapping* fails, an error is written to the log. Increase the log level to 
+    debug to get a list of the specific value mappings that failed.
