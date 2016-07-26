@@ -12,6 +12,7 @@ Topics
 
     getting-started/index
     synchronization/index
+    using-crm-data/index
     pipeline-batches/index
     components/index
     cookbooks/index
