@@ -8,10 +8,8 @@ These *queue processors* are used to process entries that represent Sitecore dat
 
     **Templates > Data Exchange > Sitecore > Queues** 
 
-Templates
--------------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

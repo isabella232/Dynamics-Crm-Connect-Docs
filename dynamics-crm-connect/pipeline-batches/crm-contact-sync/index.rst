@@ -5,10 +5,8 @@ Dynamics CRM Connect comes with a pre-defined *pipeline batch* that reads
 contacts from Dynamics CRM and creates contacts in Sitecore Experience
 Database that correspond to the contacts that were read from CRM.
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     overview

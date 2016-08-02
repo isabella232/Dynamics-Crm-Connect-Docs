@@ -29,10 +29,8 @@ is used to describe this configuration:
     is that a contact is associated with a single account, while a 
     contact may be associated with multiple marketing lists.
 
-Steps
-------
-
 .. toctree::
+    :caption: Steps 
     :numbered:
     :titlesonly:
 

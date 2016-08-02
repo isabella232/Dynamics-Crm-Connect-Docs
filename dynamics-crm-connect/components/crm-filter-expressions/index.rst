@@ -24,11 +24,8 @@ reflect options that are available from the Dynamics CRM API.
     changed in the past 24 hours, is that set of contacts going to 
     accurately reflect the marketing list membership?
 
-
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

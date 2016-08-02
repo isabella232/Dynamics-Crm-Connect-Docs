@@ -3,11 +3,8 @@ Sitecore Rules
 
 Dynamics CRM Connect includes a number of extensions to the Sitecore rules engine.
 
-
-Topics
--------------------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
     :maxdepth: 2
 

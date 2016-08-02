@@ -4,10 +4,8 @@ Macros
 *Macros* allow Sitecore users to specify values when configuring 
 actions and conditions that are used by the Sitecore rules.  
 
-Topics
--------------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
     :maxdepth: 2
 

@@ -8,10 +8,8 @@ These *value writers* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Value Writers** 
 
-Types
-------
-
 .. toctree::
+    :caption: Types 
     :titlesonly:
     :maxdepth: 2
 

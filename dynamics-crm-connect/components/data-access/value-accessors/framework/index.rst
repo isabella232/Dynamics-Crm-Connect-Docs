@@ -8,10 +8,8 @@ These *value accessors* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Value Accessors** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

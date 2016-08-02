@@ -8,10 +8,8 @@ These *value readers* are used to read Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Data Access** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

@@ -1,10 +1,8 @@
 Entities
 ===================================
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
     

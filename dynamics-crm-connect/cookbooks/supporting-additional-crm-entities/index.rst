@@ -9,10 +9,8 @@ This documentation referrs to this type of support as "simple
 synchronization". Other cases require custom development. This  
 is referred to as "complex synchronization". 
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     simple-synchronization/index

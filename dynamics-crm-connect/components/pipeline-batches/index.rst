@@ -9,10 +9,8 @@ and to provide basic reporting information after it runs.
 
     **Templates > Data Exchange > Framework > Pipeline Batches** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

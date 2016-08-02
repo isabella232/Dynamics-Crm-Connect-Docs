@@ -8,10 +8,8 @@ These *value accessor sets* are used for Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Data Access** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

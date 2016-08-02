@@ -8,20 +8,16 @@ These *pipeline steps* are used to interact with any kind of system.
 
     **Templates > Data Exchange > Framework > Pipeline Steps** 
 
-Templates
--------------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 
     apply-mapping
     iterate-data-and-run-pipelines
 
-Base Templates
--------------------
-
 .. toctree::
+    :caption: Base Templates 
     :titlesonly:
     :maxdepth: 2
 

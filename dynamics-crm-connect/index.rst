@@ -3,10 +3,8 @@
 Dynamics CRM Connect Documentation
 =======================================
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics
     :maxdepth: 2
     :titlesonly:
 

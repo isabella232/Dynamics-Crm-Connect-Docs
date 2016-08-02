@@ -30,11 +30,8 @@ optimized code is used.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Repositories** 
 
-
-Templates
--------------
-
 .. toctree::
+    :caption: Templates
     :titlesonly:
     :maxdepth: 2
 

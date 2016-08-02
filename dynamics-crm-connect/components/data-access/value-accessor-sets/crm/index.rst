@@ -8,10 +8,8 @@ These *value accessor sets* are used for Dynamics CRM data.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Data Access** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

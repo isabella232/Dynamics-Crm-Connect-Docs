@@ -15,11 +15,8 @@ structure (Sitecore items).
     that data in a data structure that must be created (a custom contact facet). 
     :doc:`../complex-synchronization/index` covers how to implement this.
 
-
-Steps
-------
-
 .. toctree::
+    :caption: Steps
     :numbered:
     :titlesonly:
 

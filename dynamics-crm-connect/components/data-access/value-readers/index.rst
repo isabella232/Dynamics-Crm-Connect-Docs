@@ -22,10 +22,8 @@ object. But you need the value in a specific format: ``yyyy-MM-dd``.
 A value reader can be used to read the ``DateTime`` and then 
 convert that object to a string.
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

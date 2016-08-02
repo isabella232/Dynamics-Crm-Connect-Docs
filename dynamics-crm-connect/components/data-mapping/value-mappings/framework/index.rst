@@ -8,10 +8,8 @@ These *value mappings* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Mapping** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

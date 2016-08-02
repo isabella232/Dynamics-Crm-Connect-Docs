@@ -7,10 +7,8 @@ creates contacts in Sitecore that correspond to the contacts that
 were read from CRM, and associates the Sitecore contact with the 
 CRM marketing lists that were read from CRM. 
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     overview

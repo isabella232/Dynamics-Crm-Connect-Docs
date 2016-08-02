@@ -8,10 +8,8 @@ These *value readers* are used for any kind of data.
 
     **Templates > Data Exchange > Framework > Data Access > Value Readers** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

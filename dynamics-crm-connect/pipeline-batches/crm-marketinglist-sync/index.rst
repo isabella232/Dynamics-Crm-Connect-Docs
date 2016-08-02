@@ -5,10 +5,8 @@ Dynamics CRM Connect comes with a pre-defined *pipeline batch* that reads
 marketing lists from Dynamics CRM and associates xDB contacts with those
 marketing lists.
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     overview

@@ -8,10 +8,8 @@ These *pipeline steps* are used to interact with Dynamics CRM.
 
     **Templates > Data Exchange > Providers > Dynamics CRM > Pipeline Steps** 
 
-Templates
--------------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

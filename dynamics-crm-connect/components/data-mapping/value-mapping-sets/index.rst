@@ -3,10 +3,8 @@ Value Mapping Sets
 
 A *value mapping set* groups a number of related *value mappings*.
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

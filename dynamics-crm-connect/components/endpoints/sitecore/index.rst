@@ -8,10 +8,8 @@ These *endpoints* are used to interact with Sitecore data.
 
     **Templates > Data Exchange > Providers > Sitecore > Endpoints** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

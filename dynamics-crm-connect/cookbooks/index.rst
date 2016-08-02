@@ -1,10 +1,8 @@
 Cookbooks
 ========================
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
     :maxdepth: 2
 

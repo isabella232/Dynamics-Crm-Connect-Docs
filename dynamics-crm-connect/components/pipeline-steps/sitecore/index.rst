@@ -8,10 +8,8 @@ These *pipeline steps* are used to interact with Sitecore.
 
     **Templates > Data Exchange > Providers > Sitecore > Pipeline Steps** 
 
-Contact Templates
--------------------
-
 .. toctree::
+    :caption: Contact Templates 
     :titlesonly:
     :maxdepth: 2
     
@@ -21,11 +19,8 @@ Contact Templates
     run-bulk-contact-update-from-queue
     save-xdb-contact
    
-
-Campaign Templates
--------------------
-
 .. toctree::
+    :caption: Campaign Templates 
     :titlesonly:
     :maxdepth: 2
     
@@ -33,20 +28,16 @@ Campaign Templates
     resolve-campaign
     save-campaign
 
-Sitecore Item Templates
-----------------------------
-
 .. toctree::
+    :caption: Sitecore Item Templates 
     :titlesonly:
     :maxdepth: 2
 
     resolve-sitecore-item
     update-sitecore-item
 
-Base Templates
--------------------
-
 .. toctree::
+    :caption: Base Templates 
     :titlesonly:
     :maxdepth: 2
     

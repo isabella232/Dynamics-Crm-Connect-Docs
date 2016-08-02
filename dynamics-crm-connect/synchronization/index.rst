@@ -3,10 +3,8 @@ Synchronization Fundamentals
 
 Synchronization involves making data from one system available in another.
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     start-pipeline-batch-manually

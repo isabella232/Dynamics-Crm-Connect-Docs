@@ -8,10 +8,8 @@ These *queue processors* are used to process any kind of entries.
 
     **Templates > Data Exchange > Framework > Queues** 
 
-Templates
--------------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

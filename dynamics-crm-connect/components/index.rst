@@ -1,10 +1,8 @@
 Component Reference
 ========================
 
-Templates
--------------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 
@@ -19,10 +17,8 @@ Templates
     sitecore-task-commands/index
     tenants/index
     
-Other Components
--------------------
-
 .. toctree::
+    :caption: Other Components 
     :titlesonly:
     :maxdepth: 2
 

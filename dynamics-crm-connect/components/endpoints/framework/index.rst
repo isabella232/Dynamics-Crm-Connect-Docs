@@ -8,10 +8,8 @@ These *endpoints* are used to interact with any kind of data source.
 
     **Templates > Data Exchange > Framework > Endpoints** 
 
-Templates
--------------
-
 .. toctree::
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

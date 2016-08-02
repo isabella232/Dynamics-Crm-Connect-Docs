@@ -5,11 +5,8 @@ Getting data from CRM into Sitecore is only useful if the data can
 be used within Sitecore. There are many ways CRM data can be used 
 within Sitecore. 
 
-
-Steps
-------
-
 .. toctree::
+    :caption: Steps 
     :titlesonly:
 
     custom-entity-data-personalization

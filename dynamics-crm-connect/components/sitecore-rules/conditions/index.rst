@@ -3,10 +3,8 @@ Conditions
 
 Conditions allow marketers to use CRM data to make decisions.
 
-Topics
--------------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
     :maxdepth: 2
 

@@ -6,10 +6,8 @@ This section will help you get started using Dynamics CRM Connect.
     It is assumed you have installed Dynamics CRM Connect on your 
     Sitecore server as described in the installation guide.
 
-Topics
-------
-
 .. toctree::
+    :caption: Topics 
     :titlesonly:
 
     add-tenant

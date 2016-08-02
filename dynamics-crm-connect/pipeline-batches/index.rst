@@ -6,10 +6,8 @@ A *pipeline batch* defines the logic for a synchronization process.
 This section covers the pipeline batches that ship with Dynamics 
 CRM Connect. 
 
-Pipeline Batches
--------------------
-
 .. toctree::
+    :caption: Pipeline Batches 
     :maxdepth: 2
     :titlesonly:
 
