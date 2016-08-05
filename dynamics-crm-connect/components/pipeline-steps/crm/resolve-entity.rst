@@ -52,3 +52,12 @@ an attribute value.
 |                                                 | | defined on the entity, an exception is thrown when    |
 |                                                 | | the pipeline step runs.                               |
 +-------------------------------------------------+---------------------------------------------------------+
+| ``Exclude active filter``                       | | By default, a filter is added to the CRM query that   |
+|                                                 | | ensures only active entities are returned.            |
+|                                                 | |                                                       |
+|                                                 | | Ticking this option disables that filter, meaning     |
+|                                                 | | that inactive entities may be read.                   |
+|                                                 | |                                                       |
+|                                                 | | You must use this setting when ``Active`` is not a    |
+|                                                 | | valid state code for the specified entity.            |
++-------------------------------------------------+---------------------------------------------------------+

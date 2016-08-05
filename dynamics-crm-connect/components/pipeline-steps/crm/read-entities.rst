@@ -51,6 +51,9 @@ Template Information
 |                                                 | |                                                       |
 |                                                 | | Ticking this option disables that filter, meaning     |
 |                                                 | | that inactive entities may be read.                   |
+|                                                 | |                                                       |
+|                                                 | | You must use this setting when ``Active`` is not a    |
+|                                                 | | valid state code for the specified entity.            |
 +-------------------------------------------------+---------------------------------------------------------+
 | ``Filter expression``                           | | The *filter expression* that controls which entities  | 
 |                                                 | | are read from CRM.                                    | 
