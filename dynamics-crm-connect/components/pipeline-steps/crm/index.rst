@@ -16,4 +16,5 @@ These *pipeline steps* are used to interact with Dynamics CRM.
     read-entities
     read-list-membership
     resolve-entity
+    set-use-delta-settings
     upsert-entity
