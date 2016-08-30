@@ -50,7 +50,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
     +----------+------------------------------------------------------------------------------------------------------------+
     | Field    | **Value accessor for name for new item**                                                                   |
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Value    | **Templates > Data Exchange > Providers > Dynamics CRM > CRM Account Attributes > Account**                |
+    | Value    | **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Account Attributes > Account Name**   |
     +----------+------------------------------------------------------------------------------------------------------------+
 
 10.	Set the following field value:
