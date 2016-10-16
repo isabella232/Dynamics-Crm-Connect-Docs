@@ -10,6 +10,7 @@ settings so that multiple configurations can coexist.
     **Templates > Data Exchange > Framework > Tenants** 
 
 .. toctree::
+    :name: framework-tenants-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

@@ -2,6 +2,7 @@ Component Reference
 ========================
 
 .. toctree::
+    :name: component-reference-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2
@@ -18,6 +19,7 @@ Component Reference
     tenants/index
     
 .. toctree::
+    :name: component-reference-other-components
     :caption: Other Components 
     :titlesonly:
     :maxdepth: 2

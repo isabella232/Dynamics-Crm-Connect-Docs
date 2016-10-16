@@ -8,6 +8,7 @@ were read from CRM, and associates the Sitecore contact with the
 CRM marketing lists that were read from CRM. 
 
 .. toctree::
+    :name: crm-contact-full-sync
     :caption: Topics 
     :titlesonly:
 

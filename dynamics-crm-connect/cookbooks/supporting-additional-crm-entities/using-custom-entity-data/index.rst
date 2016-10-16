@@ -6,6 +6,7 @@ be used within Sitecore. There are many ways CRM data can be used
 within Sitecore. 
 
 .. toctree::
+    :name: using-custom-entity-data-steps
     :caption: Steps 
     :titlesonly:
 

@@ -9,6 +9,7 @@ These *queue processors* are used to process entries that represent Sitecore dat
     **Templates > Data Exchange > Sitecore > Queues** 
 
 .. toctree::
+    :name: sitecore-provider-queue-processors-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

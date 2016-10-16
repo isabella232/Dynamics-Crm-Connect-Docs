@@ -9,6 +9,7 @@ These *value accessors* are used to read and write Sitecore data.
     **Templates > Data Exchange > Providers > Sitecore > Data Access** 
 
 .. toctree::
+    :name: sitecore-provider-value-accessors-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

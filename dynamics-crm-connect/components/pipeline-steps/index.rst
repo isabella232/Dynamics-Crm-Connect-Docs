@@ -13,6 +13,7 @@ pipeline step - is critical in order to be able to use a pipeline
 step.  
 
 .. toctree::
+    :name: pipeline-steps-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

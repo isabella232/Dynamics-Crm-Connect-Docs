@@ -31,6 +31,7 @@ optimized code is used.
     **Templates > Data Exchange > Providers > Dynamics CRM > Repositories** 
 
 .. toctree::
+    :name: dynamics-crm-provider-entity-repositories-templates
     :caption: Templates
     :titlesonly:
     :maxdepth: 2

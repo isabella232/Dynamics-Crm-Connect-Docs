@@ -9,6 +9,7 @@ These *endpoints* are used to interact with Dynamics CRM data.
     **Templates > Data Exchange > Providers > Dynamics CRM > Endpoints** 
 
 .. toctree::
+    :name: dynamics-crm-provider-endpoints-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

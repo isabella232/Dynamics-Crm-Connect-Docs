@@ -9,6 +9,7 @@ These *pipeline steps* are used to interact with Sitecore.
     **Templates > Data Exchange > Providers > Sitecore > Pipeline Steps** 
 
 .. toctree::
+    :name: sitecore-provider-pipeline-steps-contact-templates
     :caption: Contact Templates 
     :titlesonly:
     :maxdepth: 2
@@ -20,6 +21,7 @@ These *pipeline steps* are used to interact with Sitecore.
     save-xdb-contact
    
 .. toctree::
+    :name: sitecore-provider-pipeline-steps-campaign-templates
     :caption: Campaign Templates 
     :titlesonly:
     :maxdepth: 2
@@ -29,6 +31,7 @@ These *pipeline steps* are used to interact with Sitecore.
     save-campaign
 
 .. toctree::
+    :name: sitecore-provider-pipeline-steps-item-templates
     :caption: Sitecore Item Templates 
     :titlesonly:
     :maxdepth: 2
@@ -37,6 +40,7 @@ These *pipeline steps* are used to interact with Sitecore.
     update-sitecore-item
 
 .. toctree::
+    :name: sitecore-provider-pipeline-steps-base-templates
     :caption: Base Templates 
     :titlesonly:
     :maxdepth: 2

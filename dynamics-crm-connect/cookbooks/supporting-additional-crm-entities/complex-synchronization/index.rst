@@ -30,6 +30,7 @@ is used to describe this configuration:
     contact may be associated with multiple marketing lists.
 
 .. toctree::
+    :name: complex-sync-steps
     :caption: Steps 
     :numbered:
     :titlesonly:

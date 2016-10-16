@@ -9,6 +9,7 @@ These *pipeline steps* are used to interact with any kind of system.
     **Templates > Data Exchange > Framework > Pipeline Steps** 
 
 .. toctree::
+    :name: framework-pipeline-steps-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2
@@ -17,6 +18,7 @@ These *pipeline steps* are used to interact with any kind of system.
     iterate-data-and-run-pipelines
 
 .. toctree::
+    :name: framework-pipeline-steps-base-templates
     :caption: Base Templates 
     :titlesonly:
     :maxdepth: 2

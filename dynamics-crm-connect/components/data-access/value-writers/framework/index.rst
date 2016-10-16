@@ -9,7 +9,8 @@ These *value writers* are used for any kind of data.
     **Templates > Data Exchange > Framework > Data Access > Value Writers** 
 
 .. toctree::
-    :caption: Types 
+    :name: framework-value-writers-templates
+    :caption: Templates 
     :titlesonly:
     :maxdepth: 2
 

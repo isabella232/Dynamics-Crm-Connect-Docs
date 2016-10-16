@@ -10,6 +10,7 @@ synchronization". Other cases require custom development. This
 is referred to as "complex synchronization". 
 
 .. toctree::
+    :name: supporting-additional-crm-entities
     :caption: Topics 
     :titlesonly:
 

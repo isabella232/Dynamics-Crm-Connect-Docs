@@ -22,6 +22,7 @@ source object, and another value accessor identifies the component
 used to write a value to the target object.
 
 .. toctree::
+    :name: value-accessors-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

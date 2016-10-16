@@ -22,6 +22,7 @@ Steps
 ------
 
 .. toctree::
+    :name: synchronize-single-object
     :numbered:
     :titlesonly:
 

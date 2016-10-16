@@ -25,6 +25,7 @@ reflect options that are available from the Dynamics CRM API.
     accurately reflect the marketing list membership?
 
 .. toctree::
+    :name: dynamics-crm-provider-filter-expressions-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

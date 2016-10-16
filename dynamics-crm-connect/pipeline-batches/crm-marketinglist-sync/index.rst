@@ -6,6 +6,7 @@ marketing lists from Dynamics CRM and associates xDB contacts with those
 marketing lists.
 
 .. toctree::
+    :name: crm-marketing-list-sync
     :caption: Topics 
     :titlesonly:
 

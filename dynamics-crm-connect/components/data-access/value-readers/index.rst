@@ -23,6 +23,7 @@ A value reader can be used to read the ``DateTime`` and then
 convert that object to a string.
 
 .. toctree::
+    :name: value-readers-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

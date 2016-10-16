@@ -9,6 +9,7 @@ These *value mapping sets* are used for any kind of data.
     **Templates > Data Exchange > Framework > Data Access > Mapping** 
 
 .. toctree::
+    :name: framework-value-mapping-sets-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

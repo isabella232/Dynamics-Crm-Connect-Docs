@@ -14,6 +14,7 @@ This section will help you get started using Dynamics CRM Connect.
     Sitecore server as described in the installation guide.
 
 .. toctree::
+    :name: dynamics-crm-getting-started
     :caption: Topics 
     :titlesonly:
 

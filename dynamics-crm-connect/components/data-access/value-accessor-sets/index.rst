@@ -12,6 +12,7 @@ represented using a value accessor. The collection of all of the
 attributes you want to read is represented by a value accessor set.
 
 .. toctree::
+    :name: value-accessor-sets-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

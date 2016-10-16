@@ -7,6 +7,7 @@ This section covers the pipeline batches that ship with Dynamics
 CRM Connect. 
 
 .. toctree::
+    :name: dynamics-crm-provider-standard-pipeline-batches
     :caption: Pipeline Batches 
     :maxdepth: 2
     :titlesonly:

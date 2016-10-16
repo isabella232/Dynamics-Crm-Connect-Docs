@@ -9,7 +9,7 @@ This value reader supports a number of formats:
     * A ``string`` value will be converted into the enum member with a matching name. If the name does not correspond with an enum member, null is reteurned. 
 
 +-----------------+-----------------------------------------------------------+
-| Template name   | **Enum Value Reader**                                    |
+| Template name   | **Enum Value Reader**                                     |
 +-----------------+-----------------------------------------------------------+
 | Base template   | :doc:`value-reader`                                       |
 +-----------------+-----------------------------------------------------------+

@@ -6,6 +6,7 @@ an object. The object to which the value is written is called the
 *target object*.
 
 .. toctree::
+    :name: value-writers-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

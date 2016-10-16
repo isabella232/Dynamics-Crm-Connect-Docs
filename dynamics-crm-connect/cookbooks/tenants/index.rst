@@ -2,6 +2,7 @@ Tenants
 =======================
 
 .. toctree::
+    :name: cookbook-tenants
     :caption: Topics 
     :titlesonly:
     :maxdepth: 2

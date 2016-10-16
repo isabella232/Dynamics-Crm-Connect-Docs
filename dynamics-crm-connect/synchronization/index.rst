@@ -4,6 +4,7 @@ Synchronization Fundamentals
 Synchronization involves making data from one system available in another.
 
 .. toctree::
+    :name: sync-fundamentals
     :caption: Topics 
     :titlesonly:
 

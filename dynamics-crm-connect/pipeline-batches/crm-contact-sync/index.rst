@@ -6,6 +6,7 @@ contacts from Dynamics CRM and creates contacts in Sitecore Experience
 Database that correspond to the contacts that were read from CRM.
 
 .. toctree::
+    :name: crm-contact-sync
     :caption: Topics 
     :titlesonly:
 

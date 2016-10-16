@@ -6,6 +6,7 @@ from a *source object* with the *value accessor* used to write a value
 to a *target object*.
 
 .. toctree::
+    :name: value-mappings-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

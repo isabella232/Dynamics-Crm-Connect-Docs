@@ -9,6 +9,7 @@ These *endpoints* are used to interact with any kind of data source.
     **Templates > Data Exchange > Framework > Endpoints** 
 
 .. toctree::
+    :name: framework-endpoints-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

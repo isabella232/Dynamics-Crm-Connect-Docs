@@ -10,6 +10,7 @@ to run as scheduled tasks.
     **Templates > Data Exchange > Framework > Tasks** 
 
 .. toctree::
+    :name: sitecore-task-commands-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

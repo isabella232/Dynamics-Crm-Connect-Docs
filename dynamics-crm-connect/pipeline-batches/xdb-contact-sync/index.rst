@@ -6,6 +6,7 @@ contacts from Sitecore Experience Database and updates contacts in Dynamics
 CRM that correspond to the contacts that were read from Sitecore.
 
 .. toctree::
+    :name: xdb-contact-sync
     :caption: Topics 
     :titlesonly:
 

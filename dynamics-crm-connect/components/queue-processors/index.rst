@@ -6,6 +6,7 @@ each entry. Which entries and how each entry is handled is determined
 by the queue processor. 
 
 .. toctree::
+    :name: queue-processors-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

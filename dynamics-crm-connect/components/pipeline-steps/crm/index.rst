@@ -9,6 +9,7 @@ These *pipeline steps* are used to interact with Dynamics CRM.
     **Templates > Data Exchange > Providers > Dynamics CRM > Pipeline Steps** 
 
 .. toctree::
+    :name: dynamics-crm-provider-pipeline-steps-templates
     :caption: Templates 
     :titlesonly:
     :maxdepth: 2

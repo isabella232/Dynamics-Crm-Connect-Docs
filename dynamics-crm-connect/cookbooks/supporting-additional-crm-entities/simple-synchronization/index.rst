@@ -16,6 +16,7 @@ structure (Sitecore items).
     :doc:`../complex-synchronization/index` covers how to implement this.
 
 .. toctree::
+    :name: simple-sync-steps
     :caption: Steps
     :numbered:
     :titlesonly:

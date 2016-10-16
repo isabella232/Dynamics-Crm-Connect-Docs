@@ -4,6 +4,7 @@ Dynamics CRM Connect Documentation
 =======================================
 
 .. toctree::
+    :name: dynamics-crm-connect-documentation
     :caption: Topics
     :maxdepth: 2
     :titlesonly:
