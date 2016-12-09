@@ -3,14 +3,7 @@
 Dynamics CRM Connect Documentation
 =======================================
 
-.. important::
-    Dynamics CRM Connect is built on Sitecore CRM Connect and 
-    Sitecore Data Exchange Framework. The documentation for 
-    those products is an essential companion to this documentation.
-    
-    You can find that documentation at the following location:
-
-        :def-doc-url:`/index.html`
+.. include:: ../common/def-documentation-notice.txt
 
 .. toctree::
     :name: dynamics-crm-connect-documentation

@@ -5,6 +5,8 @@ v1.2
    :depth: 1
    :local:
 
+.. include:: ../../../common/def-documentation-notice.txt
+
 New features 
 -------------------------------------------------
 
