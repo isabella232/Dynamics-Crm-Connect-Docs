@@ -19,7 +19,7 @@ contacts associated with an account.
 
 2.	Add a reference to the following NuGet packages:
 
-  * Microsoft.CrmSdk.CoreAssemblies (version 7.1.1)
+  * Microsoft.CrmSdk.CoreAssemblies (version 8.0.0)
 
 3.	Add the following class:
 

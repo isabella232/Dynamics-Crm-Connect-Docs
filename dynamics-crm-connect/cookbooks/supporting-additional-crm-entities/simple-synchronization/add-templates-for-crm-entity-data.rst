@@ -37,7 +37,7 @@ This is the purpose of exposing CRM accounts as Sitecore items.
     +--------+--------------------------------+
     | Field  | **Title**                      |
     +--------+--------------------------------+
-    | Value  | **Account name**               |
+    | Value  | **Account Name**               |
     +--------+--------------------------------+
 
 12.	Save the item.

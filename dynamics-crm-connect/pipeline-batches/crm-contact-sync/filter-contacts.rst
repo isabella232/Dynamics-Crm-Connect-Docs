@@ -20,6 +20,8 @@ The pre-configured expression filter is set on the following item under your *te
 +-----------------+-------------------------------------------------------------------+
 
 This pre-configured expression filter can be changed or replaced as 
-needed. Details on how to configure filter expressions are available
-in the section :doc:`/components/crm-filter-expressions/index`.
+needed. 
 
+.. tip::
+    For more information on how to configure filter expresions, see 
+    :def-providers-crm-component:`CRM Filter Expressions<crm-filter-expressions/index.html>`. 

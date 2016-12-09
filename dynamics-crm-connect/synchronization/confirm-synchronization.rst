@@ -6,7 +6,7 @@ data was synchronized.
 
 Option 1
     The pipeline batch item has a section **Summary**. In this section
-    there is a field **Last run completed**. If this field is ticked,
+    there is a field **Last Run Completed**. If this field is ticked,
     the pipeline batch finished without any critical errors.
 
     While this is not a fool-proof method - it is possible that a non-critical

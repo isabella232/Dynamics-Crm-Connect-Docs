@@ -31,7 +31,7 @@ the contact facet so that it can.
     using System;
     namespace Examples.DynamicsCrm.Models
     {
-        public interface ICrmContactDataEx : ICrmContactData
+        public interface IDynamicsCrmContactDataEx : IDynamicsCrmContactData
         {
             Guid AccountId { get; set; }
         }
@@ -46,9 +46,9 @@ the contact facet so that it can.
 
     namespace Examples.DynamicsCrm.Models
     {
-        public class CrmContactDataEx : CrmContactData, ICrmContactDataEx
+        public class DynamicsCrmContactDataEx : CrmContactData, IDynamicsCrmContactDataEx
         {
-            public CrmContactDataEx()
+            public DynamicsCrmContactDataEx()
             {
                 base.EnsureAttribute<Guid>(nameof(AccountId));
             }

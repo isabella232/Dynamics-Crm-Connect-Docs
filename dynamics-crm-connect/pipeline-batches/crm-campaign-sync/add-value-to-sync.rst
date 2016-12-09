@@ -51,7 +51,7 @@ value is written to the Sitecore campaign.
 
 .. tip::
   For more information on the value accessor used with CRM entity 
-  attributes, see :doc:`/components/data-access/value-accessors/crm/entities/attribute-value`. 
+  attributes, see :def-providers-crm-component:`Entity Attribute Value<data-access/value-accessors/entity-attribute-value.html>`. 
 
 Value Accessor for Sitecore Campaign
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ read from the CRM campaign to the Sitecore campaign.
 
 .. tip::
   For more information on the value accessor used with CRM entity 
-  attributes, see :doc:`/components/data-access/value-accessors/crm/entities/attribute-value`. 
+  attributes, see :def-providers-crm-component:`Entity Attribute Value<data-access/value-accessors/entity-attribute-value.html>`. 
 
 Define Value Mapping
 ---------------------

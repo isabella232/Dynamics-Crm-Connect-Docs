@@ -40,7 +40,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 8.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Template for new item**                                                                                  |
+    | Field    | **Template for New Item**                                                                                  |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Templates > Data Exchange > Providers > Sitecore > Entities > External Account**                         |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -48,7 +48,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 9.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for name for new item**                                                                   |
+    | Field    | **Item Name Value Accessor**                                                                               |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Account Attributes > Account Name**   |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -56,7 +56,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 10.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Endpoint to read data from**                                                                             |
+    | Field    | **Endpoint From**                                                                                          |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Sitecore > Sitecore Item Model Repository Endpoint**                                                     |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -64,7 +64,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 11.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Identifier value accessor**                                                                              |
+    | Field    | **Identifier Value Accessor**                                                                              |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Value Accessor Sets > Providers > Dynamics CRM > CRM Account Attributes > Account Id**                   |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -72,7 +72,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 12.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Identifier object location**                                                                             |
+    | Field    | **Identifier Object Location**                                                                             |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Pipeline Context Source**                                                                                |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -80,7 +80,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 13.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Resolved object location**                                                                               |
+    | Field    | **Resolved Object Location**                                                                               |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Pipeline Context Target**                                                                                |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -88,7 +88,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 14.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Parent for item to resolve**                                                                             |
+    | Field    | **Parent for Item**                                                                                        |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **sitecore > system > Data Exchange > mycrm > Tenant Settings > Dynamics CRM > Accounts**                  |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -96,7 +96,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 15.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for Sitecore item field used to match the identifier value**                              |
+    | Field    | **Matching Field Value Accessor**                                                                          |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Sitecore > Sitecore Account Item Fields > Account Id**   |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -115,7 +115,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 20.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Mapping set**                                                                                            |
+    | Field    | **Mapping Set**                                                                                            |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Value Mapping Sets > CRM Account to Sitecore Item**                                                      |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -133,7 +133,7 @@ A *pipeline* is used to define the logic involved in creating the Sitecore item.
 24.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Endpoint for Sitecore item model repository**                                                            |
+    | Field    | **Endpoint To**                                                                                            |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Sitecore > Sitecore Item Model Repository Endpoint**                                                     |
     +----------+------------------------------------------------------------------------------------------------------------+

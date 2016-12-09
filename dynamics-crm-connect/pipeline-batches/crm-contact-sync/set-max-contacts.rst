@@ -6,8 +6,8 @@ also set a limit for the number of contacts that are handled.
 
 .. note::
   This setting is used in addition to the option to include inactive
-  campaigns (see :doc:`/pipeline-batches/crm-contact-sync/read-inactive-contacts`)
-  and the option to use a filter expression (see :doc:`/components/crm-filter-expressions/index`).
+  contacts (see :doc:`/pipeline-batches/crm-contact-sync/read-inactive-contacts`)
+  and the option to use a filter expression (see :def-providers-crm-component:`CRM Filter Expressions<crm-filter-expressions/index.html>`).
 
 .. note::
   This setting does not restrict the number of contacts that are read

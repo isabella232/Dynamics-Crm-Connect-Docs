@@ -26,7 +26,7 @@ target object (Sitecore account item), you must define a *value mapping set*.
 6.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for source object**                                                                       |
+    | Field    | **Source Accessor**                                                                                        |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Account Attributes > Account Id**     |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -34,7 +34,7 @@ target object (Sitecore account item), you must define a *value mapping set*.
 7.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for target object**                                                                       |
+    | Field    | **Target Accessor**                                                                                        |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Sitecore > Sitecore Account Item Fields > Account Id**   |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -52,7 +52,7 @@ target object (Sitecore account item), you must define a *value mapping set*.
 11.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for source object**                                                                       |
+    | Field    | **Source Accessor**                                                                                        |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Account Attributes > Account Name**   |
     +----------+------------------------------------------------------------------------------------------------------------+
@@ -60,7 +60,7 @@ target object (Sitecore account item), you must define a *value mapping set*.
 12.	Set the following field value:
 
     +----------+------------------------------------------------------------------------------------------------------------+
-    | Field    | **Value accessor for target object**                                                                       |
+    | Field    | **Target Accessor**                                                                                        |
     +----------+------------------------------------------------------------------------------------------------------------+
     | Value    | **Data Access > Value Accessor Sets > Providers > Sitecore > Sitecore Account Item Fields > Account Name** |
     +----------+------------------------------------------------------------------------------------------------------------+

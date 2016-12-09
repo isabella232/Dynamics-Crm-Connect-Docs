@@ -9,18 +9,18 @@ objects that can be used by *pipeline step processors*.
 
 .. code-block:: c#
 
+    using Sitecore.DataExchange.Attributes;
     using Sitecore.DataExchange.Providers.DynamicsCrm.Converters.PipelineSteps;
     using Sitecore.DataExchange.Repositories;
     using System;
 
     namespace Examples.DynamicsCrm.Converters
     {
+        [SupportedIds("[TEMPLATE-ID")]
         public class ReadAccountMembershipStepConverter : ReadEntitiesStepConverter
         {
-            private static readonly Guid TemplateId = Guid.Parse("[TEMPLATE-ID]");
             public ReadAccountMembershipStepConverter(IItemModelRepository repository) : base(repository)
             {
-                this.SupportedTemplateIds.Add(TemplateId);
             }
         }
     }
@@ -29,7 +29,7 @@ objects that can be used by *pipeline step processors*.
 
 .. code-block:: c#
 
-    private static readonly Guid TemplateId = Guid.Parse("[TEMPLATE-ID]");
+    [SupportedIds("[TEMPLATE-ID")]
 
 3.	Replace ``[TEMPLATE-ID]`` with the ID for the template from :doc:`add-template-for-read-members-pipeline-step`.
 4.	Compile the project.

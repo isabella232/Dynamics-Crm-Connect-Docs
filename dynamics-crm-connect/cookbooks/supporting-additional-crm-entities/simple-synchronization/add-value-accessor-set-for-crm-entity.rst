@@ -27,7 +27,7 @@ from the CRM account that are available to Dynamics CRM Connect.
 6.	Set the following field value:
 
     +----------+-------------------------------------+
-    | Field    | **Attribute name**                  |
+    | Field    | **Attribute Name**                  |
     +----------+-------------------------------------+
     | Value    | **accountid**                       |
     +----------+-------------------------------------+
@@ -45,7 +45,7 @@ from the CRM account that are available to Dynamics CRM Connect.
 10.	Set the following field value:
 
     +----------+-------------------------------------+
-    | Field    | **Attribute name**                  |
+    | Field    | **Attribute Name**                  |
     +----------+-------------------------------------+
     | Value    | **name**                            |
     +----------+-------------------------------------+

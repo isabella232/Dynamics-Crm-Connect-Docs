@@ -27,7 +27,7 @@ from the Sitecore contact that are available to Dynamics CRM Connect.
 6.	Set the following field value:
 
   +----------------+----------------------------------------------------------+
-  | Field          | **Contact facet name**                                   |
+  | Field          | **Contact Facet Name**                                   |
   +----------------+----------------------------------------------------------+
   | Vallue         | **DynamicsCrm**                                          |
   +----------------+----------------------------------------------------------+
@@ -35,7 +35,7 @@ from the Sitecore contact that are available to Dynamics CRM Connect.
 7.	Set the following field value:
 
   +----------------+----------------------------------------------------------+
-  | Field          | **Property name**                                        |
+  | Field          | **Property Name**                                        |
   +----------------+----------------------------------------------------------+
   | Vallue         | **AccountId**                                            |
   +----------------+----------------------------------------------------------+

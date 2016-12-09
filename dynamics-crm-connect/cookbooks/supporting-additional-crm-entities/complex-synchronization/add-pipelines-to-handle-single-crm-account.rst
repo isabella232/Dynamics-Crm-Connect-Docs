@@ -27,7 +27,7 @@ Sitecore contact and applies data from the CRM entity.
 6.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Endpoint to read data from**                            |
+    | Field       | **Endpoint From**                                         |
     +-------------+-----------------------------------------------------------+
     | Value       | **Sitecore > Local xDB Contacts Endpoint**                |
     +-------------+-----------------------------------------------------------+
@@ -35,7 +35,7 @@ Sitecore contact and applies data from the CRM entity.
 7.	Set the following field value:
 
     +-------------+------------------------------------------------------------------------------------------+
-    | Field       | **Identifier value accessor**                                                            |
+    | Field       | **Identifier Value Accessor**                                                            |
     +-------------+------------------------------------------------------------------------------------------+
     | Value       | **Value Accessor Sets > Providers > Dynamics CRM > CRM Contact Attributes > Email**      |
     +-------------+------------------------------------------------------------------------------------------+
@@ -43,7 +43,7 @@ Sitecore contact and applies data from the CRM entity.
 8.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Identifier object location**                            |
+    | Field       | **Identifier Object Location**                            |
     +-------------+-----------------------------------------------------------+
     | Value       | **Pipeline Context Source**                               |
     +-------------+-----------------------------------------------------------+
@@ -51,7 +51,7 @@ Sitecore contact and applies data from the CRM entity.
 9.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Resolved object location**                              |
+    | Field       | **Resolved Object Location**                              |
     +-------------+-----------------------------------------------------------+
     | Value       | **Pipeline Context Target**                               |
     +-------------+-----------------------------------------------------------+
@@ -69,7 +69,7 @@ Sitecore contact and applies data from the CRM entity.
 13.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Endpoint to read data from**                            |
+    | Field       | **Endpoint From**                                         |
     +-------------+-----------------------------------------------------------+
     | Value       | **Endpoints > Common > Queue Endpoint**                   |
     +-------------+-----------------------------------------------------------+
@@ -77,7 +77,7 @@ Sitecore contact and applies data from the CRM entity.
 14.	Set the following field value:
 
     +-------------+----------------------------------------------------------------------------------------------------+
-    | Field       | **Identifier value accessor**                                                                      |
+    | Field       | **Identifier Value Accessor**                                                                      |
     +-------------+----------------------------------------------------------------------------------------------------+
     | Value       | **Value Accessor Sets > Providers > Sitecore > xDB Contact Properties > xDB Contact Identifier**   |
     +-------------+----------------------------------------------------------------------------------------------------+
@@ -85,7 +85,7 @@ Sitecore contact and applies data from the CRM entity.
 15.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Identifier object location**                            |
+    | Field       | **Identifier Object Location**                            |
     +-------------+-----------------------------------------------------------+
     | Value       | **Pipeline Context Target**                               |
     +-------------+-----------------------------------------------------------+
@@ -93,7 +93,7 @@ Sitecore contact and applies data from the CRM entity.
 16.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Resolved object location**                              |
+    | Field       | **Resolved Object Location**                              |
     +-------------+-----------------------------------------------------------+
     | Value       | **Pipeline Context Target**                               |
     +-------------+-----------------------------------------------------------+
@@ -111,7 +111,7 @@ Sitecore contact and applies data from the CRM entity.
 20.	Set the following field value:
 
     +-------------+----------------------------------------------------------------------+
-    | Field       | **Mapping set**                                                      |
+    | Field       | **Mapping Set**                                                      |
     +-------------+----------------------------------------------------------------------+
     | Value       | **Value Mapping Sets > CRM Account Membership to xDB Contact**       |
     +-------------+----------------------------------------------------------------------+

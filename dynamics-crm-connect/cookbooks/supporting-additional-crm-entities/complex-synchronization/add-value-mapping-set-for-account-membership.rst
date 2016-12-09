@@ -27,7 +27,7 @@ entity) to a target object (Sitecore contact), you must define a
 6.	Set the following field value:
 
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
-  | Field          | **Value accessor for source object**                                                                                       |
+  | Field          | **Source Accessor**                                                                                                        |
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
   | Value          | **Data Access > Value Accessor Sets > Providers > Dynamics CRM > CRM Account Membership Attributes > Account Id**          |
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
@@ -35,7 +35,7 @@ entity) to a target object (Sitecore contact), you must define a
 7.	Set the following field value:
 
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
-  | Field          | **Value accessor for target object**                                                                                       |
+  | Field          | **Target Accessor**                                                                                                        |
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
   | Value          | **Data Access > Value Accessor Sets > Providers > Sitecore > xDB Contact Properties for Account Membership > Account Id**  |
   +----------------+----------------------------------------------------------------------------------------------------------------------------+
@@ -43,7 +43,7 @@ entity) to a target object (Sitecore contact), you must define a
 8.	Set the following field value:
 
   +----------------+----------------------------------------------------------+
-  | Field          | **Transformer for source value**                         |
+  | Field          | **Source Value Transformer**                             |
   +----------------+----------------------------------------------------------+
   | Value          | **Value Readers > Common > Guid Value Reader**           |
   +----------------+----------------------------------------------------------+

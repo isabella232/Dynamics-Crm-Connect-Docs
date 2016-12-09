@@ -8,7 +8,7 @@ Start a Pipeline Batch Programmatically
   Guid tenantId = ...         //tenant that owns the pipeline batch
   Guid pipelineBatchId = ...  //pipeline batch
   IEnumerable<PipelineBatch> batches = null;
-  batches = Sitecore.DataExchange.Context.PipelineBatchRepository.GetPipelineBatches(tenantId);
+  batches = Sitecore.DataExchange.Context.TenantRepository.GetPipelineBatches(tenantId);
   if (batches != null)
   {
     PipelineBatch pipelineBatch = batches.FirstOrDefault(x => x.ID == pipelineBatchId);

@@ -26,7 +26,7 @@ to the pipeline configured in :doc:`add-pipelines-to-handle-crm-entity`.
 6.	Set the following field value:
 
     +----------+---------------------------------------------------+
-    | Field    | **Endpoint for Dynamics CRM entity repository**   |
+    | Field    | **Endpoint From**                                 |
     +----------+---------------------------------------------------+
     | Value    | **Dynamics CRM > Dynamics CRM Entity Endpoint**   |
     +----------+---------------------------------------------------+
@@ -34,7 +34,7 @@ to the pipeline configured in :doc:`add-pipelines-to-handle-crm-entity`.
 7.	Set the following field value:
 
     +----------+---------------------------------------------------+
-    | Field    | **Entity name**                                   |
+    | Field    | **Entity Name**                                   |
     +----------+---------------------------------------------------+
     | Value    | **account**                                       |
     +----------+---------------------------------------------------+
@@ -42,7 +42,7 @@ to the pipeline configured in :doc:`add-pipelines-to-handle-crm-entity`.
 8.	Set the following field value:
 
     +----------+----------------------------------------------------------+
-    | Field    | **Attributes to read**                                   |
+    | Field    | **Attributes to Read**                                   |
     +----------+----------------------------------------------------------+
     | Value    | **Common CRM Entity Attributes, CRM Account Attributes** |
     +----------+----------------------------------------------------------+

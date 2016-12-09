@@ -35,7 +35,7 @@ those CRM contacts.
 6.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Endpoint for Dynamics CRM entity repository**           |
+    | Field       | **Endpoint From**                                         |
     +-------------+-----------------------------------------------------------+
     | Value       | **Dynamics CRM > Dynamics CRM Entity Endpoint**           |
     +-------------+-----------------------------------------------------------+
@@ -43,7 +43,7 @@ those CRM contacts.
 7.	Set the following field value:
 
     +-------------+-----------------------------------------------------------+
-    | Field       | **Entity name**                                           |
+    | Field       | **Entity Name**                                           |
     +-------------+-----------------------------------------------------------+
     | Value       | **accountmembership**                                     |
     +-------------+-----------------------------------------------------------+
@@ -51,7 +51,7 @@ those CRM contacts.
 8.	Set the following field value:
 
     +-------------+---------------------------------------------------------------------+
-    | Field       | **Attributes to read**                                              |
+    | Field       | **Attributes to Read**                                              |
     +-------------+---------------------------------------------------------------------+
     | Value       | **Common CRM Entity Attributes, CRM Contact Attributes Minimal**    |
     +-------------+---------------------------------------------------------------------+

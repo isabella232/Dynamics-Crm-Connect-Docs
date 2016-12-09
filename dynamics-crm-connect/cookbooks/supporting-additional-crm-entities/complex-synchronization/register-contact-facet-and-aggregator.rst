@@ -20,8 +20,8 @@ ensure the new value on the contact facet is indexed properly.
 
     .. note:: 
         The configuration included in these instructions is for the Lucene
-        search engine. If you are using Solr you must change the node 
-        **/configuration/sitecore/contentSearch/configuration**.
+        search engine. If you are using Solr, Azure Search or a different 
+        search engine, you must change the node **/configuration/sitecore/contentSearch/configuration**.
 
 2.	Add the following configuration to the file. This will replace the default contact facet model with the new, extended model, and the default contact aggregator with the new, extended aggregator:
 
@@ -31,9 +31,9 @@ ensure the new value on the contact facet is indexed properly.
     <sitecore>
       <model>
         <elements>
-          <element interface="Sitecore.Analytics.DynamicsCrm.Models.ICrmContactData, Sitecore.Analytics.DynamicsCrm" implementation="Sitecore.Analytics.DynamicsCrm.Models.CrmContactData, Sitecore.Analytics.DynamicsCrm">
-            <patch:attribute name="interface">Examples.DynamicsCrm.Models.ICrmContactDataEx, Examples.DynamicsCrm</patch:attribute>
-            <patch:attribute name="implementation">Examples.DynamicsCrm.Models.CrmContactDataEx, Examples.DynamicsCrm</patch:attribute>
+          <element interface="Sitecore.Analytics.DynamicsCrm.Models.IDynamicsCrmContactData, Sitecore.Analytics.DynamicsCrm" implementation="Sitecore.Analytics.DynamicsCrm.Models.DynamicsCrmContactData, Sitecore.Analytics.DynamicsCrm">
+            <patch:attribute name="interface">Examples.DynamicsCrm.Models.IDynamicsCrmContactDataEx, Examples.DynamicsCrm</patch:attribute>
+            <patch:attribute name="implementation">Examples.DynamicsCrm.Models.DynamicsCrmContactDataEx, Examples.DynamicsCrm</patch:attribute>
           </element>
         </elements>
         <entities>

@@ -11,6 +11,7 @@ can be used by Pipeline Step Processors.
 
     using Examples.DynamicsCrm.Repositories;
     using Sitecore.Connect.Crm.DynamicsCrm.Repositories;
+    using Sitecore.DataExchange.Attributes;
     using Sitecore.DataExchange.Converters;
     using Sitecore.DataExchange.Providers.DynamicsCrm.Models.ItemModels.Repositories;
     using Sitecore.DataExchange.Repositories;
@@ -19,12 +20,11 @@ can be used by Pipeline Step Processors.
 
     namespace Examples.DynamicsCrm.Converters
     {
+        [SupportedIds("[TEMPLATE-ID")]
         public class XrmClientAccountMembershipRepositoryConverter : BaseItemModelConverter<ItemModel, XrmClientEntityRepository>
         {
-            private static readonly Guid TemplateId = Guid.Parse("[TEMPLATE-ID]");
             public XrmClientAccountMembershipRepositoryConverter(IItemModelRepository repository) : base(repository)
             {
-                this.SupportedTemplateIds.Add(TemplateId);
             }
             public override XrmClientEntityRepository Convert(ItemModel source)
             {
@@ -42,7 +42,7 @@ can be used by Pipeline Step Processors.
 
 .. code-block:: c#
 
-    private static readonly Guid TemplateId = Guid.Parse("[TEMPLATE-ID]");
+    [SupportedIds("[TEMPLATE-ID")]
 
 3.	Replace ``[TEMPLATE-ID]`` with the ID for the template from :doc:`add-template-for-entity-repo`.
 4.	Compile the project.

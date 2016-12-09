@@ -40,7 +40,7 @@ You must extend ``ContactIndexableEx`` to include the account ID.
             }
             private void LoadFields(IContact contact)
             {
-                var data = contact.GetFacet<ICrmContactDataEx>("DynamicsCrm");
+                var data = contact.GetFacet<IDynamicsCrmContactDataEx>("DynamicsCrm");
                 if (data == null)
                 {
                     return;

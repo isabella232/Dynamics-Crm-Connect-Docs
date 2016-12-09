@@ -21,10 +21,15 @@ Option 1
       being assigned to the pipeline batch.
 
 Option 2
+    The **Stop Pipeline Batch** button is enabled while the pipeline batch is
+    running. If the button is disabled, you know the pipeline batch is
+    running.
+
+Option 3
     The pipeline batch item has a section **Summary**. In this section there 
-    is a field **Last run finished**. If the value in this field has a 
+    is a field **Last Run Finished**. If the value in this field has a 
     date/time value that is equal to or later than the value in the field
-    **Requested at**, you know the pipeline batch is completed.
+    **Requested At**, you know the pipeline batch is completed.
 
     .. image:: _static/pipeline-batch-summary.png
 

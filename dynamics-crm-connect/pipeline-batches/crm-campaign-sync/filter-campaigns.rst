@@ -14,9 +14,9 @@ are read.
 #. Insert a new item using the template **Filter Expression**.
 #. Configure the item.
 
-  .. hint::
-    For details on how to configure filter expressions, see
-    :doc:`/components/crm-filter-expressions/index`.
+    .. tip::
+        For more information on how to configure filter expresions, see 
+        :def-providers-crm-component:`CRM Filter Expressions<crm-filter-expressions/index.html>`. 
 
 5. Navigate to your tenant.
 #. Navigate to **Pipelines > CRM Campaign Pipelines**.

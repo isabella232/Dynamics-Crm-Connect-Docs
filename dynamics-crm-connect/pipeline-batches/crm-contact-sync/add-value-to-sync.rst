@@ -66,9 +66,9 @@ data can be stored on an xDB contact than on a CRM contact.
 As a result, you must select the appropriate template for the value 
 accessor. 
 
-.. hint::
-  The available templates are described in the :doc:`/components/data-access/value-accessors/sitecore/xdb/index` 
-  section under :ref:`xdb-contact-value-accessors`.
+.. tip::
+  The :def-providers-sitecore-component:`available templates<data-access/value-accessors/index.html#sitecore-provider-value-accessors-xdb-templates>`
+  are described in the :def-root:`Data Exchange Framework documentation<index.html>`.
 
 #. Navigate to your tenant.
 #. Navigate to **Data Access > Value Accessor Sets > Providers**.
