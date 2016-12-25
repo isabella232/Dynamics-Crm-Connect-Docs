@@ -10,19 +10,6 @@ v1.2
 New features 
 -------------------------------------------------
 
-New pipeline steps
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-    * Read multiple items from a Sitecore database.
-
-        .. note::
-            This pipeline step is not currently used in any of the 
-            default pipeline batches. It is available for you to use
-            in custom pipelines you design.
-
-            For more information on this pipeline step, see 
-            :def-providers-sitecore-component:`Read Sitecore Items<pipeline-steps/read-sitecore-items.html>`. 
-
 Improved control over pipeline batches
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
