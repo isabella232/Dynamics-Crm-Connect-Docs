@@ -17,4 +17,4 @@ you can find this condition under the section **Dynamics CRM**.
 
 .. attention::
     It is assumed you have synchronized CRM marketing lists. For 
-    information on how to do this, see :doc:`/synchronization/index`.  
+    information on how to do this, see :doc:`/pipeline-batches/crm-marketinglist-sync/index`.  
