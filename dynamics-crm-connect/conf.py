@@ -60,9 +60,9 @@ author = 'Sitecore'
 # built documents.
 #
 # The short X.Y version.
-version = '1.2'
+version = '1.3'
 # The full version, including alpha/beta/rc tags.
-release = '1.2'
+release = '1.3'
 
 base_def_docs_url = 'http://integrationsdn.sitecore.net/DataExchangeFramework/v' + version
 extlinks = {

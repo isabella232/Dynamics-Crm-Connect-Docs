@@ -13,7 +13,6 @@ Dynamics CRM Connect Documentation
 
     whats-new/index
     getting-started/index
-    synchronization/index
     using-crm-data/index
     pipeline-batches/index
     cookbooks/index

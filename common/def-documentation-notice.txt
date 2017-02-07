@@ -3,6 +3,6 @@
     Sitecore Data Exchange Framework. The documentation for 
     those products is an essential companion to this documentation.
     
-    You can find that documentation at the following location:
+    You can find the most recent version of that documentation at the following location:
 
         :def-doc-url:`/index.html`
