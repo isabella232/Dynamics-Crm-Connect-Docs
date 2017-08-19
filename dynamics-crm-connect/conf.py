@@ -60,9 +60,9 @@ author = 'Sitecore'
 # built documents.
 #
 # The short X.Y version.
-version = '1.4'
+version = '1.4.1'
 # The full version, including alpha/beta/rc tags.
-release = '1.4'
+release = '1.4.1'
 
 base_def_docs_url = 'http://integrationsdn.sitecore.net/DataExchangeFramework/v' + version
 extlinks = {
@@ -270,7 +270,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.0 Documentation',
+    ('index', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.4.1 Documentation',
      ['Sitecore'], 1)
 ]
 
@@ -284,8 +284,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.0 Documentation',
-   'Sitecore', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.0 Documentation',
+  ('index', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.4.1 Documentation',
+   'Sitecore', 'dynamics-crm-connect', 'Dynamics CRM Connect 1.4.1 Documentation',
    'Configuration'),
 ]
 
