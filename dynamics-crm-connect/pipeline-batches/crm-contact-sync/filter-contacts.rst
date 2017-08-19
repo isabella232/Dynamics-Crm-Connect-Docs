@@ -24,4 +24,4 @@ needed.
 
 .. tip::
     For more information on how to configure filter expresions, see 
-    :def-providers-crm-component:`CRM Filter Expressions<crm-filter-expressions/index.html>`. 
+    :def-framework-component:`Filter Expressions<filter-expressions/index.html>`. 

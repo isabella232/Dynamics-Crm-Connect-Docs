@@ -16,7 +16,7 @@ are read.
 
     .. tip::
         For more information on how to configure filter expresions, see 
-        :def-providers-crm-component:`CRM Filter Expressions<crm-filter-expressions/index.html>`. 
+        :def-framework-component:`Filter Expressions<filter-expressions/index.html>`. 
 
 5. Navigate to your tenant.
 #. Navigate to **Pipelines > CRM Campaign Pipelines**.

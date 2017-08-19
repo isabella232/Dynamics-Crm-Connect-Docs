@@ -22,6 +22,7 @@ the contact facet so that it can.
 
     * Sitecore.Analytics.DynamicsCrm.dll
     * Sitecore.Analytics.Model.dll
+    * Sitecore.Connect.CRM.Local.dll
 
 3.	Add the following interface:
 
@@ -46,7 +47,7 @@ the contact facet so that it can.
 
     namespace Examples.DynamicsCrm.Models
     {
-        public class DynamicsCrmContactDataEx : CrmContactData, IDynamicsCrmContactDataEx
+        public class DynamicsCrmContactDataEx : DynamicsCrmContactData, IDynamicsCrmContactDataEx
         {
             public DynamicsCrmContactDataEx()
             {
