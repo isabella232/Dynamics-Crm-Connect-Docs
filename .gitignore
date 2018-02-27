@@ -1,1 +1,11 @@
-dynamics-crm-connect/debug.log
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+_site
+_sitecore_pdf
+
