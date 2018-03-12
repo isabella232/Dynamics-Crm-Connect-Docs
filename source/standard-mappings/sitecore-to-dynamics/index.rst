@@ -4,8 +4,6 @@ This section describes the data mappings from
 Sitecore to Dynamics that are included with
 Sitecore Connect for Microsoft Dynamics 365 for Sales.
 
-.. image:: /_static/sitecore-to-dynamics.png
-
 .. toctree::
    :caption: Topics
    :maxdepth: 1
