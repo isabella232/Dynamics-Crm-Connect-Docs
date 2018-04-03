@@ -1,7 +1,7 @@
 Dynamics to Sitecore
 ===================================================
 This section describes the data mappings from 
-Salesforce to Sitecore that are included with
+Dynamics to Sitecore that are included with
 Sitecore Connect for Microsoft Dynamics 365 for Sales.
 
 .. toctree::

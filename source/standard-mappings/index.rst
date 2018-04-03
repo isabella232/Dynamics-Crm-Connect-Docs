@@ -1,8 +1,8 @@
 Standard Mappings
 ===================================================
-Sitecore Connect for Salesforce CRM comes pre-configured 
-with data mapped from Salesforce CRM to Sitecore and from 
-Sitecore to Salesforce CRM. 
+Sitecore Connect for Microsoft Dynamics 365 for Sales 
+comes pre-configured with data mapped from Dynamics 
+to Sitecore and from Sitecore to Dynamics. 
 
 This section describes these standard mappings.
 
