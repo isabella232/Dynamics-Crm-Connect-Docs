@@ -8,6 +8,9 @@ Sitecore Connect for Microsoft Dynamics 365 for Sales.
    :caption: Topics
    :maxdepth: 1
 
+   contacts/index.rst
+   events/index.rst
+
 .. note::
 
     For information on how to map additional data
